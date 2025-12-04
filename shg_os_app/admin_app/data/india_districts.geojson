@@ -1,0 +1,362 @@
+{
+"type": "FeatureCollection",
+"name": "india_districts",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"state": "Andhra Pradesh",
+"district": "Anantapur"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[77.3003, 15.1184],
+[77.6753, 15.2002],
+[77.9234, 14.7654],
+[77.6521, 14.5602],
+[77.4833, 14.3201],
+[77.1800, 14.4600],
+[76.9800, 14.7800],
+[77.3003, 15.1184]
+]
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"state": "Andhra Pradesh",
+"district": "Chittoor"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[79.0500, 13.7800],
+[79.4500, 13.4200],
+[78.9000, 13.1000],
+[78.4000, 13.3000],
+[78.3500, 13.6500],
+[79.0500, 13.7800]
+]
+]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
+"state": "Assam",
+"district": "Kamrup"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[91.1500, 26.1500],
+[91.7000, 26.2000],
+[91.9000, 25.8000],
+[91.5000, 25.6000],
+[91.1000, 25.8000],
+[91.1500, 26.1500]
+]
+]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
+"state": "Assam",
+"district": "Dibrugarh"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[94.7000, 27.6000],
+[95.1000, 27.7000],
+[95.3000, 27.3000],
+[94.9000, 27.1000],
+[94.5000, 27.3000],
+[94.7000, 27.6000]
+]
+]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
+"state": "Bihar",
+"district": "Patna"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[85.1000, 25.7000],
+[85.4000, 25.6000],
+[85.5000, 25.3000],
+[85.2000, 25.2000],
+[84.9000, 25.4000],
+[85.1000, 25.7000]
+]
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"state": "Bihar",
+"district": "Gaya"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[85.0000, 24.9000],
+[85.4000, 24.8000],
+[85.3000, 24.5000],
+[84.9000, 24.4000],
+[84.7000, 24.7000],
+[85.0000, 24.9000]
+]
+]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
+"state": "Gujarat",
+"district": "Ahmedabad"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[72.3000, 23.3000],
+[72.8000, 23.4000],
+[72.9000, 23.0000],
+[72.5000, 22.8000],
+[72.2000, 23.0000],
+[72.3000, 23.3000]
+]
+]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
+"state": "Gujarat",
+"district": "Surat"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[72.7000, 21.4000],
+[73.1000, 21.5000],
+[73.2000, 21.1000],
+[72.9000, 20.9000],
+[72.5000, 21.2000],
+[72.7000, 21.4000]
+]
+]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
+"state": "Gujarat",
+"district": "Vadodara"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[73.0000, 22.5000],
+[73.4000, 22.7000],
+[73.6000, 22.3000],
+[73.2000, 22.2000],
+[72.9000, 22.3000],
+[73.0000, 22.5000]
+]
+]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
+"state": "Gujarat",
+"district": "Kutch"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[68.5000, 24.5000],
+[69.5000, 24.6000],
+[70.0000, 24.0000],
+[69.7000, 23.2000],
+[68.8000, 23.4000],
+[68.5000, 24.0000],
+[68.5000, 24.5000]
+]
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"state": "Jharkhand",
+"district": "Ranchi"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[85.2000, 23.6000],
+[85.6000, 23.7000],
+[85.8000, 23.3000],
+[85.4000, 23.1000],
+[85.1000, 23.3000],
+[85.2000, 23.6000]
+]
+]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
+"state": "Jharkhand",
+"district": "Jamshedpur"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[86.0000, 22.9000],
+[86.4000, 23.0000],
+[86.5000, 22.7000],
+[86.2000, 22.5000],
+[85.9000, 22.7000],
+[86.0000, 22.9000]
+]
+]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
+"state": "Karnataka",
+"district": "Bengaluru"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[77.3000, 13.3000],
+[77.8000, 13.2000],
+[77.9000, 12.9000],
+[77.5000, 12.6000],
+[77.2000, 12.8000],
+[77.3000, 13.3000]
+]
+]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
+"state": "Karnataka",
+"district": "Mysuru"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[76.3000, 12.5000],
+[76.7000, 12.6000],
+[76.9000, 12.3000],
+[76.5000, 12.1000],
+[76.2000, 12.2000],
+[76.3000, 12.5000]
+]
+]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
+"state": "Kerala",
+"district": "Kochi"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[76.1000, 9.9000],
+[76.5000, 10.0000],
+[76.6000, 9.7000],
+[76.3000, 9.6000],
+[75.9000, 9.8000],
+[76.1000, 9.9000]
+]
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"state": "Maharashtra",
+"district": "Mumbai"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[72.7000, 19.2000],
+[73.0000, 19.1000],
+[73.1000, 18.9000],
+[72.8000, 18.8000],
+[72.5000, 19.0000],
+[72.7000, 19.2000]
+]
+]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
+"state": "Maharashtra",
+"district": "Pune"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[73.6000, 18.7000],
+[74.0000, 18.8000],
+[74.2000, 18.4000],
+[73.9000, 18.2000],
+[73.5000, 18.4000],
+[73.6000, 18.7000]
+]
+]
+}
+}
+
+]
+}

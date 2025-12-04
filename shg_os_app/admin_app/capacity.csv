@@ -1,0 +1,1001 @@
+member_id,product_name,monthly_capacity,supply_ready
+1,Urad Papad,78,289
+2,Jute Bags,214,236
+3,Mixed Pickle,386,21
+4,Bamboo Craft,235,43
+5,Milk,103,225
+6,Urad Papad,344,339
+7,Jewellery,91,218
+8,Bamboo Craft,461,375
+9,Embroidery,334,133
+10,Garam Masala,476,299
+11,School Uniforms,436,174
+12,Paneer,187,184
+13,Mango Pickle,236,241
+14,Milk,447,110
+15,Milk,253,186
+16,Meat,480,226
+17,Blouse Making,91,301
+18,Bamboo Craft,399,84
+19,Milk,465,395
+20,Cloth Bags,337,23
+21,Milk,475,176
+22,Urad Papad,465,268
+23,Decorative Items,75,276
+24,Clay Pots,420,254
+25,Paper Bags,434,325
+26,Milk,105,385
+27,Milk,302,93
+28,Cloth Bags,171,206
+29,Masala Papad,155,81
+30,Mixed Pickle,179,356
+31,Clay Pots,386,183
+32,Paneer,207,75
+33,Bamboo Craft,425,130
+34,Milk,280,237
+35,Saree Stitching,357,259
+36,Jute Bags,140,40
+37,Mehendi,442,160
+38,Planters,71,284
+39,Ghee,339,158
+40,Lemon Pickle,159,89
+41,Planters,98,137
+42,Embroidery,178,217
+43,Bridal Makeup,122,224
+44,Bridal Makeup,389,233
+45,Clay Pots,102,75
+46,Turmeric Powder,405,306
+47,School Uniforms,429,312
+48,Mixed Pickle,217,194
+49,Basic Grooming,94,366
+50,Ghee,442,389
+51,Embroidery,154,147
+52,Blouse Making,199,397
+53,Masala Papad,195,344
+54,Embroidery,253,311
+55,Milk,411,307
+56,Milk,348,245
+57,Blouse Making,216,83
+58,Cloth Bags,250,67
+59,Mixed Pickle,183,221
+60,Masala Papad,260,356
+61,Jewellery,97,79
+62,Lemon Pickle,175,276
+63,Mixed Pickle,288,84
+64,Bamboo Craft,56,258
+65,Meat,321,308
+66,Moong Papad,434,57
+67,Jute Bags,420,44
+68,Planters,86,78
+69,Masala Papad,260,376
+70,Masala Papad,214,316
+71,Mango Pickle,174,177
+72,Garam Masala,386,76
+73,Cloth Bags,241,67
+74,Bridal Makeup,267,347
+75,Jewellery,263,75
+76,Planters,111,84
+77,Ghee,377,287
+78,Meat,494,88
+79,Embroidery,430,235
+80,Clay Pots,210,108
+81,Milk,115,300
+82,Bamboo Craft,335,276
+83,Clay Pots,288,179
+84,School Uniforms,69,253
+85,Saree Stitching,237,150
+86,Bamboo Craft,131,68
+87,Turmeric Powder,412,166
+88,Mixed Pickle,251,335
+89,Mehendi,457,21
+90,Decorative Items,181,348
+91,Milk,86,164
+92,Masala Papad,181,385
+93,Meat,126,80
+94,Garam Masala,138,292
+95,Urad Papad,451,68
+96,Milk,302,351
+97,Clay Pots,393,150
+98,Turmeric Powder,243,62
+99,Lemon Pickle,225,76
+100,Clay Pots,82,69
+101,Bamboo Craft,107,197
+102,Bamboo Craft,250,312
+103,Clay Pots,77,65
+104,Chilli Powder,84,189
+105,Milk,174,290
+106,Milk,443,355
+107,Paper Bags,370,158
+108,Ghee,91,266
+109,Jewellery,134,167
+110,Turmeric Powder,442,249
+111,Jute Bags,237,299
+112,Mehendi,160,144
+113,Blouse Making,320,211
+114,School Uniforms,490,393
+115,Garam Masala,374,99
+116,Bamboo Craft,154,113
+117,Bamboo Craft,455,245
+118,Mango Pickle,369,84
+119,Masala Papad,90,107
+120,Decorative Items,264,107
+121,Basic Grooming,120,220
+122,Basic Grooming,105,233
+123,Moong Papad,456,223
+124,Mehendi,285,108
+125,Meat,330,80
+126,Milk,154,290
+127,Milk,439,113
+128,Paper Bags,424,326
+129,Urad Papad,211,46
+130,Mehendi,240,233
+131,Masala Papad,58,93
+132,Embroidery,109,80
+133,Milk,430,205
+134,Decorative Items,354,50
+135,Lemon Pickle,274,238
+136,Jewellery,356,31
+137,Mehendi,237,321
+138,Blouse Making,119,51
+139,Embroidery,342,179
+140,Urad Papad,336,256
+141,Urad Papad,218,246
+142,Bamboo Craft,111,200
+143,Cloth Bags,398,336
+144,Milk,491,65
+145,Cloth Bags,63,360
+146,Jute Bags,213,99
+147,Paneer,469,154
+148,Saree Stitching,294,279
+149,Mixed Pickle,384,327
+150,Mixed Pickle,57,266
+151,Jewellery,203,178
+152,Bamboo Craft,85,222
+153,Masala Papad,97,131
+154,Mixed Pickle,134,311
+155,Milk,77,329
+156,Mango Pickle,245,138
+157,Milk,495,36
+158,Milk,257,350
+159,Planters,253,246
+160,Meat,356,380
+161,Mango Pickle,153,136
+162,Mango Pickle,279,62
+163,Milk,475,387
+164,Meat,150,134
+165,Decorative Items,78,302
+166,Moong Papad,176,56
+167,Saree Stitching,387,321
+168,Decorative Items,59,132
+169,Jute Bags,155,54
+170,Blouse Making,216,151
+171,Paneer,306,355
+172,Moong Papad,344,355
+173,Embroidery,326,396
+174,Embroidery,114,247
+175,Moong Papad,320,166
+176,Bridal Makeup,437,141
+177,Masala Papad,237,100
+178,Meat,366,192
+179,Mehendi,453,173
+180,Ghee,187,169
+181,Jute Bags,392,394
+182,Milk,154,77
+183,Jewellery,83,82
+184,Decorative Items,429,175
+185,Masala Papad,159,375
+186,Meat,481,341
+187,Masala Papad,82,187
+188,Cloth Bags,403,185
+189,Paneer,280,104
+190,Cloth Bags,366,156
+191,Decorative Items,315,208
+192,Ghee,231,398
+193,Mixed Pickle,389,21
+194,Paper Bags,114,125
+195,Saree Stitching,382,383
+196,Decorative Items,50,91
+197,Mehendi,182,145
+198,Meat,129,189
+199,Garam Masala,320,224
+200,Embroidery,290,332
+201,Mixed Pickle,77,356
+202,Cloth Bags,272,214
+203,Bridal Makeup,72,177
+204,Planters,158,160
+205,Clay Pots,156,294
+206,School Uniforms,194,26
+207,Garam Masala,418,73
+208,Moong Papad,403,123
+209,Basic Grooming,446,361
+210,Paneer,447,357
+211,Clay Pots,188,80
+212,School Uniforms,333,106
+213,Milk,347,277
+214,Embroidery,148,197
+215,Bamboo Craft,366,261
+216,Moong Papad,172,222
+217,Garam Masala,369,50
+218,Jewellery,336,308
+219,Garam Masala,130,99
+220,Embroidery,59,30
+221,Embroidery,57,273
+222,Mixed Pickle,454,306
+223,Chilli Powder,254,195
+224,Planters,364,145
+225,Embroidery,483,66
+226,Decorative Items,246,225
+227,Masala Papad,247,126
+228,Decorative Items,79,294
+229,Milk,450,356
+230,Mango Pickle,69,142
+231,Mixed Pickle,97,153
+232,Moong Papad,179,126
+233,Meat,342,324
+234,School Uniforms,434,348
+235,Paneer,181,69
+236,Mehendi,405,356
+237,Bridal Makeup,103,114
+238,Saree Stitching,427,287
+239,Paneer,330,42
+240,Jewellery,436,73
+241,Decorative Items,314,393
+242,Paper Bags,264,273
+243,Saree Stitching,339,254
+244,Ghee,92,78
+245,Turmeric Powder,123,183
+246,Bamboo Craft,399,278
+247,Ghee,327,333
+248,School Uniforms,375,235
+249,Milk,291,202
+250,Turmeric Powder,179,76
+251,Paper Bags,399,164
+252,Decorative Items,243,109
+253,Meat,81,330
+254,Paneer,155,64
+255,Moong Papad,449,276
+256,Bamboo Craft,253,40
+257,Planters,50,40
+258,School Uniforms,294,71
+259,Clay Pots,121,357
+260,Mango Pickle,481,190
+261,Garam Masala,355,86
+262,Basic Grooming,446,132
+263,Paper Bags,64,319
+264,Mehendi,102,179
+265,Urad Papad,477,285
+266,Masala Papad,57,339
+267,Cloth Bags,379,251
+268,Paneer,95,344
+269,Clay Pots,374,87
+270,Clay Pots,163,47
+271,Cloth Bags,196,135
+272,Masala Papad,215,70
+273,Saree Stitching,428,200
+274,Ghee,188,279
+275,Masala Papad,166,98
+276,Milk,348,292
+277,Paneer,325,127
+278,Paneer,453,93
+279,Garam Masala,326,194
+280,Milk,387,203
+281,Jewellery,362,42
+282,Mehendi,227,293
+283,Chilli Powder,379,148
+284,Bridal Makeup,403,310
+285,Clay Pots,203,339
+286,Turmeric Powder,463,205
+287,Garam Masala,250,78
+288,Paneer,415,20
+289,Chilli Powder,164,150
+290,Turmeric Powder,208,86
+291,Paper Bags,91,312
+292,Mehendi,296,304
+293,Cloth Bags,117,108
+294,Bamboo Craft,494,119
+295,Planters,494,208
+296,Garam Masala,375,397
+297,Planters,383,365
+298,Chilli Powder,245,260
+299,School Uniforms,139,289
+300,Decorative Items,160,238
+301,Decorative Items,417,195
+302,Bridal Makeup,408,360
+303,Jewellery,194,252
+304,Ghee,324,170
+305,Meat,228,296
+306,Chilli Powder,290,248
+307,Jute Bags,375,190
+308,Decorative Items,368,242
+309,Jewellery,380,232
+310,Clay Pots,463,301
+311,Chilli Powder,202,60
+312,Mehendi,153,141
+313,Jute Bags,124,246
+314,Decorative Items,177,313
+315,Milk,248,107
+316,Blouse Making,203,286
+317,Lemon Pickle,105,48
+318,Blouse Making,327,266
+319,Mixed Pickle,394,335
+320,Turmeric Powder,68,263
+321,Blouse Making,208,80
+322,Chilli Powder,75,166
+323,Milk,475,193
+324,Paper Bags,218,297
+325,Moong Papad,72,353
+326,Masala Papad,96,388
+327,School Uniforms,62,398
+328,Bridal Makeup,266,161
+329,Clay Pots,371,63
+330,Ghee,243,163
+331,Basic Grooming,193,372
+332,Embroidery,122,352
+333,Chilli Powder,205,74
+334,Bridal Makeup,126,326
+335,Mehendi,468,377
+336,Mehendi,218,180
+337,Planters,336,304
+338,Cloth Bags,134,344
+339,Mango Pickle,465,217
+340,Bamboo Craft,231,178
+341,Saree Stitching,364,99
+342,Bridal Makeup,346,50
+343,School Uniforms,161,131
+344,Cloth Bags,499,65
+345,Turmeric Powder,279,372
+346,Decorative Items,145,224
+347,Mehendi,487,71
+348,Decorative Items,217,157
+349,Bamboo Craft,427,93
+350,Lemon Pickle,205,60
+351,Mango Pickle,470,96
+352,Lemon Pickle,154,206
+353,Bridal Makeup,242,389
+354,Moong Papad,379,71
+355,Cloth Bags,488,106
+356,Cloth Bags,181,128
+357,Chilli Powder,404,244
+358,Basic Grooming,431,267
+359,Ghee,187,88
+360,Bridal Makeup,480,139
+361,Urad Papad,380,86
+362,Mehendi,319,80
+363,Cloth Bags,87,346
+364,Lemon Pickle,445,210
+365,Chilli Powder,94,208
+366,Bridal Makeup,450,170
+367,Turmeric Powder,212,305
+368,Meat,499,115
+369,Milk,380,331
+370,Lemon Pickle,302,328
+371,Chilli Powder,218,282
+372,Ghee,334,116
+373,Turmeric Powder,323,132
+374,Paper Bags,69,144
+375,Ghee,288,151
+376,Blouse Making,319,140
+377,Embroidery,467,216
+378,School Uniforms,482,313
+379,Meat,359,141
+380,Turmeric Powder,80,301
+381,Cloth Bags,363,279
+382,Paper Bags,153,58
+383,Turmeric Powder,219,73
+384,Basic Grooming,235,180
+385,Lemon Pickle,177,308
+386,Blouse Making,259,219
+387,Urad Papad,463,295
+388,Moong Papad,330,35
+389,Lemon Pickle,496,192
+390,Cloth Bags,302,267
+391,Paper Bags,68,237
+392,Chilli Powder,249,106
+393,Garam Masala,269,101
+394,Milk,185,81
+395,Mehendi,272,306
+396,Mango Pickle,52,61
+397,Paneer,285,31
+398,Embroidery,391,340
+399,Saree Stitching,277,253
+400,Cloth Bags,450,348
+401,Turmeric Powder,191,150
+402,Embroidery,58,134
+403,Meat,239,237
+404,Milk,399,156
+405,Planters,454,125
+406,Decorative Items,214,198
+407,Meat,188,35
+408,Paneer,325,261
+409,Lemon Pickle,340,353
+410,Mixed Pickle,102,245
+411,Milk,224,261
+412,Turmeric Powder,159,160
+413,Turmeric Powder,252,218
+414,Lemon Pickle,485,131
+415,Mango Pickle,185,146
+416,Paper Bags,53,40
+417,Ghee,204,166
+418,Meat,221,108
+419,Garam Masala,473,322
+420,Basic Grooming,407,222
+421,Jute Bags,96,104
+422,Moong Papad,143,186
+423,Moong Papad,477,91
+424,Jute Bags,97,317
+425,Milk,289,28
+426,Meat,396,300
+427,Mango Pickle,262,277
+428,Ghee,485,294
+429,Mango Pickle,389,257
+430,Masala Papad,373,39
+431,Ghee,188,252
+432,Decorative Items,254,240
+433,Basic Grooming,430,345
+434,Garam Masala,122,36
+435,Chilli Powder,53,399
+436,Saree Stitching,125,108
+437,Cloth Bags,378,215
+438,Mango Pickle,126,369
+439,Meat,353,103
+440,Ghee,305,106
+441,Chilli Powder,459,326
+442,Paneer,151,357
+443,Decorative Items,155,173
+444,Meat,382,247
+445,Jute Bags,88,283
+446,Paneer,363,242
+447,Mehendi,324,140
+448,Blouse Making,137,192
+449,Chilli Powder,260,23
+450,Planters,418,361
+451,Milk,126,147
+452,Planters,126,129
+453,Mixed Pickle,491,374
+454,Saree Stitching,77,56
+455,Turmeric Powder,294,90
+456,Milk,115,308
+457,Paper Bags,315,50
+458,Milk,431,287
+459,Mixed Pickle,254,30
+460,Meat,107,363
+461,Lemon Pickle,250,347
+462,Chilli Powder,274,51
+463,Milk,191,76
+464,Urad Papad,430,185
+465,Planters,417,207
+466,Ghee,133,361
+467,Moong Papad,192,38
+468,Cloth Bags,401,135
+469,Chilli Powder,82,203
+470,Cloth Bags,450,289
+471,Milk,201,52
+472,Decorative Items,207,29
+473,Mehendi,495,99
+474,Basic Grooming,190,211
+475,Masala Papad,495,339
+476,Garam Masala,300,209
+477,Milk,352,87
+478,School Uniforms,161,367
+479,Turmeric Powder,193,144
+480,Planters,499,355
+481,Paneer,258,78
+482,Embroidery,273,116
+483,Lemon Pickle,92,294
+484,Moong Papad,313,168
+485,Paneer,293,297
+486,Milk,52,284
+487,Turmeric Powder,174,28
+488,Milk,317,302
+489,Meat,133,292
+490,Paneer,65,320
+491,Moong Papad,383,27
+492,Planters,108,227
+493,Basic Grooming,226,144
+494,Milk,112,142
+495,Basic Grooming,495,52
+496,Bamboo Craft,98,20
+497,Clay Pots,356,223
+498,Mixed Pickle,295,25
+499,Jute Bags,338,316
+500,Embroidery,335,24
+501,Mango Pickle,492,99
+502,School Uniforms,381,293
+503,Milk,64,196
+504,Milk,387,357
+505,Jute Bags,304,340
+506,Ghee,141,358
+507,Moong Papad,328,155
+508,Milk,255,44
+509,Bamboo Craft,143,344
+510,Blouse Making,274,202
+511,Embroidery,350,187
+512,School Uniforms,367,357
+513,Paneer,248,197
+514,Moong Papad,320,392
+515,Turmeric Powder,283,114
+516,Moong Papad,95,52
+517,Mango Pickle,113,130
+518,Cloth Bags,279,165
+519,Mehendi,479,250
+520,Meat,489,291
+521,Embroidery,298,355
+522,Jewellery,295,57
+523,Masala Papad,477,154
+524,Jewellery,124,353
+525,Decorative Items,206,254
+526,Decorative Items,272,338
+527,Chilli Powder,239,387
+528,Moong Papad,101,364
+529,Meat,487,179
+530,Mixed Pickle,137,57
+531,Turmeric Powder,362,169
+532,Urad Papad,388,327
+533,Masala Papad,115,48
+534,Milk,199,163
+535,Blouse Making,69,95
+536,Embroidery,82,164
+537,Moong Papad,377,248
+538,Ghee,330,83
+539,Cloth Bags,95,366
+540,Milk,122,364
+541,Bamboo Craft,403,288
+542,Turmeric Powder,362,347
+543,Moong Papad,392,203
+544,Embroidery,182,280
+545,Cloth Bags,104,287
+546,Ghee,110,188
+547,Mehendi,394,278
+548,Bamboo Craft,57,246
+549,Jute Bags,321,52
+550,Cloth Bags,295,396
+551,Paper Bags,225,233
+552,School Uniforms,165,69
+553,Mixed Pickle,366,229
+554,Milk,320,48
+555,School Uniforms,242,58
+556,Bamboo Craft,199,366
+557,Paneer,180,119
+558,Lemon Pickle,151,192
+559,Milk,359,36
+560,School Uniforms,319,75
+561,Basic Grooming,341,245
+562,Moong Papad,259,65
+563,Paneer,410,86
+564,Chilli Powder,387,216
+565,Planters,116,161
+566,Meat,59,342
+567,Cloth Bags,98,42
+568,Bridal Makeup,160,113
+569,Jute Bags,370,261
+570,Ghee,268,256
+571,School Uniforms,106,73
+572,Clay Pots,332,157
+573,Paper Bags,162,352
+574,Urad Papad,182,291
+575,Milk,120,60
+576,Ghee,132,117
+577,Planters,106,202
+578,Milk,425,147
+579,Saree Stitching,398,248
+580,Turmeric Powder,320,336
+581,Meat,160,105
+582,Ghee,406,275
+583,Paneer,424,228
+584,Milk,125,234
+585,Mixed Pickle,207,393
+586,Milk,69,119
+587,Urad Papad,470,68
+588,Bridal Makeup,180,220
+589,Moong Papad,378,277
+590,Cloth Bags,171,395
+591,Decorative Items,90,197
+592,Mango Pickle,216,264
+593,Masala Papad,459,142
+594,Decorative Items,179,361
+595,Mango Pickle,72,190
+596,Lemon Pickle,328,352
+597,Mixed Pickle,300,155
+598,Urad Papad,449,78
+599,Chilli Powder,58,212
+600,Mehendi,62,287
+601,Mehendi,461,279
+602,Bridal Makeup,460,392
+603,Milk,356,114
+604,Moong Papad,369,144
+605,Paper Bags,101,60
+606,Saree Stitching,258,398
+607,Moong Papad,87,273
+608,Turmeric Powder,149,26
+609,Meat,242,235
+610,Masala Papad,451,88
+611,Embroidery,240,88
+612,Mehendi,100,100
+613,Saree Stitching,442,49
+614,Mehendi,190,92
+615,Meat,217,281
+616,Mango Pickle,360,108
+617,Moong Papad,158,227
+618,Masala Papad,256,232
+619,Mango Pickle,476,341
+620,Chilli Powder,349,285
+621,Jewellery,159,312
+622,Meat,245,226
+623,Paper Bags,466,352
+624,Milk,201,96
+625,Milk,469,307
+626,Masala Papad,292,66
+627,Paneer,177,129
+628,Basic Grooming,154,219
+629,Masala Papad,59,229
+630,Lemon Pickle,405,395
+631,Milk,197,173
+632,Moong Papad,414,29
+633,Ghee,413,372
+634,Milk,189,176
+635,Bamboo Craft,239,280
+636,Ghee,451,96
+637,Saree Stitching,143,276
+638,Mango Pickle,278,150
+639,Turmeric Powder,112,86
+640,Mango Pickle,389,247
+641,Jute Bags,74,182
+642,Jewellery,317,34
+643,Bamboo Craft,454,251
+644,Milk,330,214
+645,Milk,60,368
+646,Mixed Pickle,369,49
+647,Basic Grooming,250,378
+648,Turmeric Powder,175,357
+649,Milk,355,350
+650,Bridal Makeup,239,335
+651,Turmeric Powder,138,315
+652,Decorative Items,404,349
+653,Turmeric Powder,165,239
+654,Bridal Makeup,401,396
+655,Paper Bags,226,166
+656,Embroidery,63,278
+657,Planters,306,311
+658,Jute Bags,258,318
+659,Chilli Powder,330,162
+660,Masala Papad,492,254
+661,Bamboo Craft,377,134
+662,Urad Papad,374,384
+663,Garam Masala,438,109
+664,Milk,154,227
+665,Decorative Items,196,183
+666,Milk,328,103
+667,Saree Stitching,58,96
+668,Milk,167,180
+669,Moong Papad,143,24
+670,Saree Stitching,483,97
+671,Masala Papad,193,110
+672,Milk,338,106
+673,Saree Stitching,435,289
+674,Garam Masala,63,123
+675,Mixed Pickle,306,358
+676,Garam Masala,395,194
+677,Urad Papad,235,73
+678,Clay Pots,394,230
+679,Mehendi,449,114
+680,Moong Papad,256,242
+681,Jute Bags,395,28
+682,Decorative Items,480,72
+683,Bridal Makeup,221,96
+684,Moong Papad,319,225
+685,Bamboo Craft,270,335
+686,Jewellery,201,321
+687,Lemon Pickle,160,329
+688,Blouse Making,232,349
+689,Planters,448,131
+690,Mixed Pickle,388,370
+691,Masala Papad,121,184
+692,Masala Papad,467,298
+693,Jewellery,435,46
+694,Saree Stitching,332,89
+695,Turmeric Powder,123,237
+696,Paneer,404,384
+697,Saree Stitching,264,208
+698,Moong Papad,377,352
+699,Masala Papad,72,325
+700,Milk,117,143
+701,Meat,447,38
+702,Mixed Pickle,496,276
+703,Garam Masala,422,315
+704,Mango Pickle,411,41
+705,Turmeric Powder,142,387
+706,Clay Pots,370,59
+707,Clay Pots,373,57
+708,Cloth Bags,433,67
+709,Embroidery,112,202
+710,Blouse Making,273,94
+711,Paper Bags,274,228
+712,Blouse Making,418,202
+713,Jute Bags,395,126
+714,Meat,386,207
+715,Ghee,152,283
+716,Paneer,264,105
+717,Garam Masala,241,343
+718,Meat,209,350
+719,Masala Papad,421,156
+720,Moong Papad,256,365
+721,Mixed Pickle,318,355
+722,Milk,243,114
+723,Meat,429,345
+724,Garam Masala,452,264
+725,Milk,201,109
+726,Chilli Powder,286,78
+727,Blouse Making,137,47
+728,Meat,60,91
+729,School Uniforms,236,289
+730,Paneer,263,43
+731,Mango Pickle,64,131
+732,Mehendi,315,319
+733,Turmeric Powder,346,75
+734,Urad Papad,460,242
+735,Meat,493,139
+736,Basic Grooming,122,198
+737,Mixed Pickle,101,307
+738,Meat,177,300
+739,Masala Papad,77,391
+740,Embroidery,114,208
+741,Meat,66,85
+742,Urad Papad,400,317
+743,Lemon Pickle,477,268
+744,Ghee,187,95
+745,Paper Bags,368,156
+746,Turmeric Powder,278,183
+747,Cloth Bags,303,252
+748,Turmeric Powder,259,274
+749,Mango Pickle,480,313
+750,Mixed Pickle,343,189
+751,Masala Papad,280,336
+752,Meat,290,193
+753,Masala Papad,119,364
+754,Paper Bags,153,37
+755,Mixed Pickle,253,89
+756,Lemon Pickle,102,357
+757,Clay Pots,477,135
+758,Mango Pickle,424,99
+759,Turmeric Powder,379,34
+760,Jewellery,103,195
+761,Garam Masala,325,288
+762,Basic Grooming,384,138
+763,Paper Bags,80,318
+764,Garam Masala,184,207
+765,Ghee,107,76
+766,Lemon Pickle,154,218
+767,Moong Papad,315,36
+768,Embroidery,59,307
+769,Jewellery,302,74
+770,Mango Pickle,344,288
+771,Bamboo Craft,205,322
+772,Masala Papad,207,106
+773,Jute Bags,86,337
+774,Milk,168,48
+775,Embroidery,116,41
+776,Moong Papad,291,340
+777,Embroidery,348,304
+778,Cloth Bags,262,67
+779,Masala Papad,357,24
+780,Mixed Pickle,150,269
+781,Mango Pickle,105,182
+782,Mehendi,381,221
+783,Bridal Makeup,373,120
+784,Basic Grooming,288,90
+785,School Uniforms,442,182
+786,Bridal Makeup,280,192
+787,Planters,411,160
+788,Mehendi,430,157
+789,Garam Masala,141,85
+790,Cloth Bags,328,217
+791,Turmeric Powder,496,347
+792,Paneer,158,247
+793,Masala Papad,366,300
+794,Lemon Pickle,217,191
+795,Chilli Powder,349,335
+796,Milk,457,59
+797,Meat,484,26
+798,Lemon Pickle,491,193
+799,Bamboo Craft,267,170
+800,Decorative Items,271,230
+801,Paper Bags,210,321
+802,Mango Pickle,65,105
+803,Paper Bags,327,272
+804,Bridal Makeup,106,40
+805,Lemon Pickle,111,276
+806,Mehendi,412,398
+807,Clay Pots,376,52
+808,Embroidery,291,279
+809,Paper Bags,139,253
+810,Moong Papad,121,22
+811,Turmeric Powder,375,366
+812,Bridal Makeup,79,327
+813,Saree Stitching,408,246
+814,Mehendi,456,303
+815,Chilli Powder,337,89
+816,School Uniforms,135,332
+817,Lemon Pickle,283,383
+818,Meat,284,273
+819,Saree Stitching,362,163
+820,Mehendi,414,43
+821,Meat,314,253
+822,Ghee,336,352
+823,Embroidery,376,194
+824,Mehendi,442,351
+825,Urad Papad,318,344
+826,Paneer,235,376
+827,Meat,180,178
+828,Mango Pickle,340,367
+829,Embroidery,326,367
+830,School Uniforms,369,305
+831,Mixed Pickle,400,37
+832,Garam Masala,229,63
+833,Mixed Pickle,339,174
+834,Bamboo Craft,426,374
+835,Bridal Makeup,212,396
+836,Ghee,320,250
+837,Cloth Bags,425,390
+838,Jewellery,145,335
+839,Garam Masala,311,244
+840,Paper Bags,414,236
+841,Saree Stitching,402,75
+842,Moong Papad,337,50
+843,Cloth Bags,485,376
+844,Blouse Making,132,78
+845,Cloth Bags,274,399
+846,Mehendi,461,372
+847,Blouse Making,272,254
+848,Mixed Pickle,167,126
+849,Bridal Makeup,241,210
+850,Clay Pots,128,37
+851,Urad Papad,127,245
+852,Chilli Powder,196,186
+853,Lemon Pickle,156,90
+854,Decorative Items,431,381
+855,Bridal Makeup,320,73
+856,Blouse Making,439,264
+857,Bamboo Craft,293,369
+858,Meat,122,95
+859,Paneer,406,54
+860,Garam Masala,403,286
+861,Embroidery,471,336
+862,Cloth Bags,75,319
+863,Clay Pots,259,140
+864,Embroidery,141,343
+865,Paper Bags,174,44
+866,Planters,484,179
+867,Chilli Powder,122,103
+868,Meat,172,133
+869,Masala Papad,358,242
+870,Embroidery,233,185
+871,Paneer,236,210
+872,Lemon Pickle,247,194
+873,Cloth Bags,127,20
+874,Meat,397,248
+875,Cloth Bags,235,105
+876,Clay Pots,393,81
+877,Embroidery,302,339
+878,Jewellery,62,225
+879,Mango Pickle,348,124
+880,Basic Grooming,125,337
+881,Blouse Making,100,310
+882,Bamboo Craft,324,269
+883,Clay Pots,198,32
+884,Paneer,268,182
+885,Turmeric Powder,171,62
+886,Mango Pickle,260,130
+887,Lemon Pickle,329,224
+888,Chilli Powder,75,275
+889,Decorative Items,222,326
+890,Cloth Bags,205,163
+891,Masala Papad,287,165
+892,Planters,425,320
+893,School Uniforms,131,183
+894,Mango Pickle,405,188
+895,Paneer,462,317
+896,Jute Bags,322,252
+897,Cloth Bags,117,290
+898,Moong Papad,93,79
+899,Garam Masala,110,315
+900,Embroidery,172,254
+901,Mixed Pickle,398,184
+902,Jute Bags,245,213
+903,Moong Papad,379,253
+904,Garam Masala,458,387
+905,Mango Pickle,372,202
+906,Meat,160,352
+907,Clay Pots,307,251
+908,Paneer,138,380
+909,Milk,482,126
+910,Urad Papad,247,397
+911,Chilli Powder,331,242
+912,Clay Pots,249,99
+913,Milk,148,253
+914,Paper Bags,76,203
+915,Mehendi,138,204
+916,Saree Stitching,195,153
+917,Milk,231,239
+918,Moong Papad,306,307
+919,Lemon Pickle,238,383
+920,Jewellery,289,221
+921,Cloth Bags,408,389
+922,Paper Bags,436,165
+923,Clay Pots,245,343
+924,Turmeric Powder,346,146
+925,Bridal Makeup,214,154
+926,Embroidery,356,133
+927,Jewellery,320,283
+928,Clay Pots,57,83
+929,Basic Grooming,87,154
+930,Garam Masala,163,60
+931,Milk,388,315
+932,Basic Grooming,105,22
+933,Jewellery,480,213
+934,Mehendi,408,129
+935,Lemon Pickle,187,240
+936,Embroidery,151,389
+937,Planters,383,387
+938,Turmeric Powder,226,23
+939,Embroidery,218,263
+940,Saree Stitching,388,185
+941,Embroidery,335,45
+942,Basic Grooming,310,36
+943,Garam Masala,424,235
+944,Cloth Bags,272,111
+945,Paneer,248,50
+946,Blouse Making,260,224
+947,Basic Grooming,336,226
+948,Paneer,229,126
+949,Masala Papad,299,165
+950,Moong Papad,280,386
+951,Paper Bags,72,120
+952,Mixed Pickle,97,387
+953,Paneer,158,337
+954,Paneer,345,387
+955,Paneer,55,260
+956,Bamboo Craft,87,266
+957,Milk,218,182
+958,Embroidery,405,391
+959,Mixed Pickle,332,192
+960,School Uniforms,252,54
+961,Garam Masala,374,303
+962,Embroidery,362,378
+963,Milk,322,377
+964,Chilli Powder,293,40
+965,Jute Bags,376,327
+966,Urad Papad,96,182
+967,Ghee,298,116
+968,School Uniforms,128,326
+969,Urad Papad,159,358
+970,Saree Stitching,62,74
+971,School Uniforms,444,352
+972,Saree Stitching,429,146
+973,Planters,414,212
+974,School Uniforms,139,262
+975,Jute Bags,391,368
+976,Bridal Makeup,397,107
+977,Mehendi,329,355
+978,Milk,270,234
+979,Mixed Pickle,122,111
+980,Decorative Items,283,322
+981,Jute Bags,309,254
+982,Mehendi,162,203
+983,Mixed Pickle,95,57
+984,Ghee,323,158
+985,Saree Stitching,92,214
+986,Ghee,257,34
+987,Paneer,466,276
+988,Paper Bags,398,154
+989,Embroidery,152,20
+990,Decorative Items,173,68
+991,Lemon Pickle,59,115
+992,Blouse Making,378,220
+993,Ghee,236,45
+994,Lemon Pickle,80,362
+995,Jute Bags,205,254
+996,Moong Papad,109,368
+997,Milk,298,263
+998,Clay Pots,436,377
+999,Ghee,423,346
+1000,Basic Grooming,488,370

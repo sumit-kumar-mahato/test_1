@@ -1,0 +1,10 @@
+{
+  "executionEnvironments": [
+    {
+      "root": "./user_app",
+      "extraPaths": [
+        "../streamlit_app/backend"
+      ]
+    }
+  ]
+}

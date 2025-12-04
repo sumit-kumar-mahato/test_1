@@ -1,0 +1,1001 @@
+member_id,product_name,category,unit_price
+1,Urad Papad,Papad Making,300
+2,Jute Bags,Bag Stitching,40
+3,Mixed Pickle,Pickle Making,413
+4,Bamboo Craft,Handicraft,190
+5,Milk,Dairy Farming,34
+6,Urad Papad,Papad Making,230
+7,Jewellery,Handicraft,67
+8,Bamboo Craft,Handicraft,105
+9,Embroidery,Handicraft,168
+10,Garam Masala,Spice Grinding,207
+11,School Uniforms,Tailoring,391
+12,Paneer,Dairy Farming,499
+13,Mango Pickle,Pickle Making,325
+14,Milk,Goat Rearing,170
+15,Milk,Dairy Farming,160
+16,Meat,Goat Rearing,88
+17,Blouse Making,Tailoring,279
+18,Bamboo Craft,Handicraft,495
+19,Milk,Dairy Farming,353
+20,Cloth Bags,Bag Stitching,475
+21,Milk,Goat Rearing,28
+22,Urad Papad,Papad Making,140
+23,Decorative Items,Pottery,390
+24,Clay Pots,Pottery,438
+25,Paper Bags,Bag Stitching,120
+26,Milk,Goat Rearing,168
+27,Milk,Goat Rearing,461
+28,Cloth Bags,Bag Stitching,165
+29,Masala Papad,Papad Making,372
+30,Mixed Pickle,Pickle Making,475
+31,Clay Pots,Pottery,262
+32,Paneer,Dairy Farming,260
+33,Bamboo Craft,Handicraft,356
+34,Milk,Goat Rearing,62
+35,Saree Stitching,Tailoring,114
+36,Jute Bags,Bag Stitching,245
+37,Mehendi,Beautician,25
+38,Planters,Pottery,233
+39,Ghee,Dairy Farming,225
+40,Lemon Pickle,Pickle Making,86
+41,Planters,Pottery,415
+42,Embroidery,Handicraft,119
+43,Bridal Makeup,Beautician,31
+44,Bridal Makeup,Beautician,256
+45,Clay Pots,Pottery,341
+46,Turmeric Powder,Spice Grinding,277
+47,School Uniforms,Tailoring,418
+48,Mixed Pickle,Pickle Making,426
+49,Basic Grooming,Beautician,432
+50,Ghee,Dairy Farming,356
+51,Embroidery,Handicraft,499
+52,Blouse Making,Tailoring,154
+53,Masala Papad,Papad Making,241
+54,Embroidery,Handicraft,175
+55,Milk,Goat Rearing,161
+56,Milk,Dairy Farming,447
+57,Blouse Making,Tailoring,177
+58,Cloth Bags,Bag Stitching,484
+59,Mixed Pickle,Pickle Making,435
+60,Masala Papad,Papad Making,345
+61,Jewellery,Handicraft,390
+62,Lemon Pickle,Pickle Making,363
+63,Mixed Pickle,Pickle Making,281
+64,Bamboo Craft,Handicraft,302
+65,Meat,Goat Rearing,357
+66,Moong Papad,Papad Making,363
+67,Jute Bags,Bag Stitching,248
+68,Planters,Pottery,395
+69,Masala Papad,Papad Making,299
+70,Masala Papad,Papad Making,377
+71,Mango Pickle,Pickle Making,309
+72,Garam Masala,Spice Grinding,187
+73,Cloth Bags,Bag Stitching,66
+74,Bridal Makeup,Beautician,482
+75,Jewellery,Handicraft,222
+76,Planters,Pottery,233
+77,Ghee,Dairy Farming,265
+78,Meat,Goat Rearing,43
+79,Embroidery,Handicraft,340
+80,Clay Pots,Pottery,293
+81,Milk,Goat Rearing,63
+82,Bamboo Craft,Handicraft,351
+83,Clay Pots,Pottery,332
+84,School Uniforms,Tailoring,382
+85,Saree Stitching,Tailoring,175
+86,Bamboo Craft,Handicraft,399
+87,Turmeric Powder,Spice Grinding,218
+88,Mixed Pickle,Pickle Making,426
+89,Mehendi,Beautician,488
+90,Decorative Items,Pottery,181
+91,Milk,Dairy Farming,414
+92,Masala Papad,Papad Making,489
+93,Meat,Goat Rearing,253
+94,Garam Masala,Spice Grinding,182
+95,Urad Papad,Papad Making,135
+96,Milk,Goat Rearing,112
+97,Clay Pots,Pottery,61
+98,Turmeric Powder,Spice Grinding,303
+99,Lemon Pickle,Pickle Making,398
+100,Clay Pots,Pottery,229
+101,Bamboo Craft,Handicraft,225
+102,Bamboo Craft,Handicraft,485
+103,Clay Pots,Pottery,239
+104,Chilli Powder,Spice Grinding,299
+105,Milk,Dairy Farming,155
+106,Milk,Dairy Farming,125
+107,Paper Bags,Bag Stitching,137
+108,Ghee,Dairy Farming,256
+109,Jewellery,Handicraft,328
+110,Turmeric Powder,Spice Grinding,475
+111,Jute Bags,Bag Stitching,407
+112,Mehendi,Beautician,494
+113,Blouse Making,Tailoring,119
+114,School Uniforms,Tailoring,280
+115,Garam Masala,Spice Grinding,324
+116,Bamboo Craft,Handicraft,373
+117,Bamboo Craft,Handicraft,305
+118,Mango Pickle,Pickle Making,347
+119,Masala Papad,Papad Making,122
+120,Decorative Items,Pottery,82
+121,Basic Grooming,Beautician,194
+122,Basic Grooming,Beautician,301
+123,Moong Papad,Papad Making,460
+124,Mehendi,Beautician,312
+125,Meat,Goat Rearing,245
+126,Milk,Goat Rearing,26
+127,Milk,Dairy Farming,146
+128,Paper Bags,Bag Stitching,443
+129,Urad Papad,Papad Making,111
+130,Mehendi,Beautician,442
+131,Masala Papad,Papad Making,209
+132,Embroidery,Handicraft,378
+133,Milk,Goat Rearing,495
+134,Decorative Items,Pottery,481
+135,Lemon Pickle,Pickle Making,72
+136,Jewellery,Handicraft,261
+137,Mehendi,Beautician,151
+138,Blouse Making,Tailoring,485
+139,Embroidery,Handicraft,383
+140,Urad Papad,Papad Making,131
+141,Urad Papad,Papad Making,428
+142,Bamboo Craft,Handicraft,26
+143,Cloth Bags,Bag Stitching,249
+144,Milk,Goat Rearing,175
+145,Cloth Bags,Bag Stitching,216
+146,Jute Bags,Bag Stitching,342
+147,Paneer,Dairy Farming,383
+148,Saree Stitching,Tailoring,242
+149,Mixed Pickle,Pickle Making,386
+150,Mixed Pickle,Pickle Making,269
+151,Jewellery,Handicraft,423
+152,Bamboo Craft,Handicraft,102
+153,Masala Papad,Papad Making,259
+154,Mixed Pickle,Pickle Making,399
+155,Milk,Goat Rearing,414
+156,Mango Pickle,Pickle Making,379
+157,Milk,Goat Rearing,342
+158,Milk,Goat Rearing,490
+159,Planters,Pottery,282
+160,Meat,Goat Rearing,426
+161,Mango Pickle,Pickle Making,208
+162,Mango Pickle,Pickle Making,474
+163,Milk,Dairy Farming,385
+164,Meat,Goat Rearing,309
+165,Decorative Items,Pottery,381
+166,Moong Papad,Papad Making,422
+167,Saree Stitching,Tailoring,77
+168,Decorative Items,Pottery,28
+169,Jute Bags,Bag Stitching,323
+170,Blouse Making,Tailoring,134
+171,Paneer,Dairy Farming,229
+172,Moong Papad,Papad Making,60
+173,Embroidery,Handicraft,323
+174,Embroidery,Handicraft,192
+175,Moong Papad,Papad Making,253
+176,Bridal Makeup,Beautician,300
+177,Masala Papad,Papad Making,391
+178,Meat,Goat Rearing,97
+179,Mehendi,Beautician,127
+180,Ghee,Dairy Farming,300
+181,Jute Bags,Bag Stitching,422
+182,Milk,Dairy Farming,58
+183,Jewellery,Handicraft,138
+184,Decorative Items,Pottery,354
+185,Masala Papad,Papad Making,355
+186,Meat,Goat Rearing,46
+187,Masala Papad,Papad Making,123
+188,Cloth Bags,Bag Stitching,93
+189,Paneer,Dairy Farming,210
+190,Cloth Bags,Bag Stitching,343
+191,Decorative Items,Pottery,166
+192,Ghee,Dairy Farming,274
+193,Mixed Pickle,Pickle Making,303
+194,Paper Bags,Bag Stitching,232
+195,Saree Stitching,Tailoring,142
+196,Decorative Items,Pottery,225
+197,Mehendi,Beautician,436
+198,Meat,Goat Rearing,259
+199,Garam Masala,Spice Grinding,413
+200,Embroidery,Handicraft,358
+201,Mixed Pickle,Pickle Making,305
+202,Cloth Bags,Bag Stitching,41
+203,Bridal Makeup,Beautician,278
+204,Planters,Pottery,376
+205,Clay Pots,Pottery,124
+206,School Uniforms,Tailoring,485
+207,Garam Masala,Spice Grinding,478
+208,Moong Papad,Papad Making,451
+209,Basic Grooming,Beautician,277
+210,Paneer,Dairy Farming,223
+211,Clay Pots,Pottery,329
+212,School Uniforms,Tailoring,281
+213,Milk,Dairy Farming,126
+214,Embroidery,Handicraft,270
+215,Bamboo Craft,Handicraft,443
+216,Moong Papad,Papad Making,240
+217,Garam Masala,Spice Grinding,398
+218,Jewellery,Handicraft,241
+219,Garam Masala,Spice Grinding,277
+220,Embroidery,Handicraft,220
+221,Embroidery,Handicraft,386
+222,Mixed Pickle,Pickle Making,277
+223,Chilli Powder,Spice Grinding,368
+224,Planters,Pottery,244
+225,Embroidery,Handicraft,221
+226,Decorative Items,Pottery,245
+227,Masala Papad,Papad Making,255
+228,Decorative Items,Pottery,202
+229,Milk,Goat Rearing,219
+230,Mango Pickle,Pickle Making,376
+231,Mixed Pickle,Pickle Making,265
+232,Moong Papad,Papad Making,463
+233,Meat,Goat Rearing,372
+234,School Uniforms,Tailoring,130
+235,Paneer,Dairy Farming,25
+236,Mehendi,Beautician,255
+237,Bridal Makeup,Beautician,146
+238,Saree Stitching,Tailoring,123
+239,Paneer,Dairy Farming,256
+240,Jewellery,Handicraft,422
+241,Decorative Items,Pottery,499
+242,Paper Bags,Bag Stitching,174
+243,Saree Stitching,Tailoring,276
+244,Ghee,Dairy Farming,254
+245,Turmeric Powder,Spice Grinding,308
+246,Bamboo Craft,Handicraft,59
+247,Ghee,Dairy Farming,307
+248,School Uniforms,Tailoring,216
+249,Milk,Dairy Farming,292
+250,Turmeric Powder,Spice Grinding,401
+251,Paper Bags,Bag Stitching,283
+252,Decorative Items,Pottery,76
+253,Meat,Goat Rearing,317
+254,Paneer,Dairy Farming,117
+255,Moong Papad,Papad Making,156
+256,Bamboo Craft,Handicraft,395
+257,Planters,Pottery,106
+258,School Uniforms,Tailoring,438
+259,Clay Pots,Pottery,261
+260,Mango Pickle,Pickle Making,218
+261,Garam Masala,Spice Grinding,482
+262,Basic Grooming,Beautician,456
+263,Paper Bags,Bag Stitching,329
+264,Mehendi,Beautician,103
+265,Urad Papad,Papad Making,261
+266,Masala Papad,Papad Making,300
+267,Cloth Bags,Bag Stitching,342
+268,Paneer,Dairy Farming,271
+269,Clay Pots,Pottery,209
+270,Clay Pots,Pottery,458
+271,Cloth Bags,Bag Stitching,449
+272,Masala Papad,Papad Making,171
+273,Saree Stitching,Tailoring,321
+274,Ghee,Dairy Farming,297
+275,Masala Papad,Papad Making,158
+276,Milk,Goat Rearing,195
+277,Paneer,Dairy Farming,27
+278,Paneer,Dairy Farming,314
+279,Garam Masala,Spice Grinding,254
+280,Milk,Dairy Farming,182
+281,Jewellery,Handicraft,68
+282,Mehendi,Beautician,321
+283,Chilli Powder,Spice Grinding,57
+284,Bridal Makeup,Beautician,155
+285,Clay Pots,Pottery,329
+286,Turmeric Powder,Spice Grinding,440
+287,Garam Masala,Spice Grinding,238
+288,Paneer,Dairy Farming,367
+289,Chilli Powder,Spice Grinding,315
+290,Turmeric Powder,Spice Grinding,53
+291,Paper Bags,Bag Stitching,371
+292,Mehendi,Beautician,98
+293,Cloth Bags,Bag Stitching,255
+294,Bamboo Craft,Handicraft,402
+295,Planters,Pottery,292
+296,Garam Masala,Spice Grinding,180
+297,Planters,Pottery,194
+298,Chilli Powder,Spice Grinding,385
+299,School Uniforms,Tailoring,327
+300,Decorative Items,Pottery,393
+301,Decorative Items,Pottery,483
+302,Bridal Makeup,Beautician,240
+303,Jewellery,Handicraft,28
+304,Ghee,Dairy Farming,308
+305,Meat,Goat Rearing,463
+306,Chilli Powder,Spice Grinding,132
+307,Jute Bags,Bag Stitching,496
+308,Decorative Items,Pottery,224
+309,Jewellery,Handicraft,424
+310,Clay Pots,Pottery,205
+311,Chilli Powder,Spice Grinding,360
+312,Mehendi,Beautician,216
+313,Jute Bags,Bag Stitching,285
+314,Decorative Items,Pottery,281
+315,Milk,Goat Rearing,267
+316,Blouse Making,Tailoring,134
+317,Lemon Pickle,Pickle Making,140
+318,Blouse Making,Tailoring,160
+319,Mixed Pickle,Pickle Making,84
+320,Turmeric Powder,Spice Grinding,295
+321,Blouse Making,Tailoring,332
+322,Chilli Powder,Spice Grinding,258
+323,Milk,Goat Rearing,321
+324,Paper Bags,Bag Stitching,411
+325,Moong Papad,Papad Making,29
+326,Masala Papad,Papad Making,476
+327,School Uniforms,Tailoring,388
+328,Bridal Makeup,Beautician,252
+329,Clay Pots,Pottery,214
+330,Ghee,Dairy Farming,414
+331,Basic Grooming,Beautician,31
+332,Embroidery,Handicraft,413
+333,Chilli Powder,Spice Grinding,428
+334,Bridal Makeup,Beautician,196
+335,Mehendi,Beautician,196
+336,Mehendi,Beautician,236
+337,Planters,Pottery,30
+338,Cloth Bags,Bag Stitching,465
+339,Mango Pickle,Pickle Making,137
+340,Bamboo Craft,Handicraft,183
+341,Saree Stitching,Tailoring,58
+342,Bridal Makeup,Beautician,72
+343,School Uniforms,Tailoring,237
+344,Cloth Bags,Bag Stitching,225
+345,Turmeric Powder,Spice Grinding,331
+346,Decorative Items,Pottery,379
+347,Mehendi,Beautician,404
+348,Decorative Items,Pottery,75
+349,Bamboo Craft,Handicraft,137
+350,Lemon Pickle,Pickle Making,407
+351,Mango Pickle,Pickle Making,272
+352,Lemon Pickle,Pickle Making,305
+353,Bridal Makeup,Beautician,287
+354,Moong Papad,Papad Making,310
+355,Cloth Bags,Bag Stitching,352
+356,Cloth Bags,Bag Stitching,199
+357,Chilli Powder,Spice Grinding,434
+358,Basic Grooming,Beautician,377
+359,Ghee,Dairy Farming,254
+360,Bridal Makeup,Beautician,362
+361,Urad Papad,Papad Making,215
+362,Mehendi,Beautician,327
+363,Cloth Bags,Bag Stitching,99
+364,Lemon Pickle,Pickle Making,154
+365,Chilli Powder,Spice Grinding,41
+366,Bridal Makeup,Beautician,496
+367,Turmeric Powder,Spice Grinding,350
+368,Meat,Goat Rearing,459
+369,Milk,Goat Rearing,244
+370,Lemon Pickle,Pickle Making,77
+371,Chilli Powder,Spice Grinding,112
+372,Ghee,Dairy Farming,211
+373,Turmeric Powder,Spice Grinding,122
+374,Paper Bags,Bag Stitching,415
+375,Ghee,Dairy Farming,26
+376,Blouse Making,Tailoring,147
+377,Embroidery,Handicraft,74
+378,School Uniforms,Tailoring,250
+379,Meat,Goat Rearing,381
+380,Turmeric Powder,Spice Grinding,81
+381,Cloth Bags,Bag Stitching,259
+382,Paper Bags,Bag Stitching,109
+383,Turmeric Powder,Spice Grinding,251
+384,Basic Grooming,Beautician,476
+385,Lemon Pickle,Pickle Making,252
+386,Blouse Making,Tailoring,373
+387,Urad Papad,Papad Making,352
+388,Moong Papad,Papad Making,458
+389,Lemon Pickle,Pickle Making,394
+390,Cloth Bags,Bag Stitching,311
+391,Paper Bags,Bag Stitching,364
+392,Chilli Powder,Spice Grinding,171
+393,Garam Masala,Spice Grinding,447
+394,Milk,Dairy Farming,164
+395,Mehendi,Beautician,149
+396,Mango Pickle,Pickle Making,160
+397,Paneer,Dairy Farming,434
+398,Embroidery,Handicraft,112
+399,Saree Stitching,Tailoring,133
+400,Cloth Bags,Bag Stitching,303
+401,Turmeric Powder,Spice Grinding,463
+402,Embroidery,Handicraft,430
+403,Meat,Goat Rearing,162
+404,Milk,Goat Rearing,242
+405,Planters,Pottery,251
+406,Decorative Items,Pottery,482
+407,Meat,Goat Rearing,52
+408,Paneer,Dairy Farming,295
+409,Lemon Pickle,Pickle Making,189
+410,Mixed Pickle,Pickle Making,159
+411,Milk,Goat Rearing,376
+412,Turmeric Powder,Spice Grinding,220
+413,Turmeric Powder,Spice Grinding,42
+414,Lemon Pickle,Pickle Making,475
+415,Mango Pickle,Pickle Making,243
+416,Paper Bags,Bag Stitching,387
+417,Ghee,Dairy Farming,289
+418,Meat,Goat Rearing,366
+419,Garam Masala,Spice Grinding,172
+420,Basic Grooming,Beautician,352
+421,Jute Bags,Bag Stitching,104
+422,Moong Papad,Papad Making,128
+423,Moong Papad,Papad Making,50
+424,Jute Bags,Bag Stitching,248
+425,Milk,Goat Rearing,259
+426,Meat,Goat Rearing,397
+427,Mango Pickle,Pickle Making,382
+428,Ghee,Dairy Farming,329
+429,Mango Pickle,Pickle Making,408
+430,Masala Papad,Papad Making,160
+431,Ghee,Dairy Farming,175
+432,Decorative Items,Pottery,318
+433,Basic Grooming,Beautician,364
+434,Garam Masala,Spice Grinding,390
+435,Chilli Powder,Spice Grinding,118
+436,Saree Stitching,Tailoring,66
+437,Cloth Bags,Bag Stitching,346
+438,Mango Pickle,Pickle Making,441
+439,Meat,Goat Rearing,499
+440,Ghee,Dairy Farming,86
+441,Chilli Powder,Spice Grinding,81
+442,Paneer,Dairy Farming,128
+443,Decorative Items,Pottery,186
+444,Meat,Goat Rearing,56
+445,Jute Bags,Bag Stitching,138
+446,Paneer,Dairy Farming,105
+447,Mehendi,Beautician,401
+448,Blouse Making,Tailoring,411
+449,Chilli Powder,Spice Grinding,484
+450,Planters,Pottery,71
+451,Milk,Goat Rearing,110
+452,Planters,Pottery,308
+453,Mixed Pickle,Pickle Making,356
+454,Saree Stitching,Tailoring,317
+455,Turmeric Powder,Spice Grinding,223
+456,Milk,Goat Rearing,387
+457,Paper Bags,Bag Stitching,257
+458,Milk,Dairy Farming,401
+459,Mixed Pickle,Pickle Making,174
+460,Meat,Goat Rearing,259
+461,Lemon Pickle,Pickle Making,155
+462,Chilli Powder,Spice Grinding,426
+463,Milk,Goat Rearing,381
+464,Urad Papad,Papad Making,400
+465,Planters,Pottery,388
+466,Ghee,Dairy Farming,83
+467,Moong Papad,Papad Making,142
+468,Cloth Bags,Bag Stitching,273
+469,Chilli Powder,Spice Grinding,496
+470,Cloth Bags,Bag Stitching,133
+471,Milk,Goat Rearing,39
+472,Decorative Items,Pottery,35
+473,Mehendi,Beautician,164
+474,Basic Grooming,Beautician,227
+475,Masala Papad,Papad Making,38
+476,Garam Masala,Spice Grinding,395
+477,Milk,Dairy Farming,411
+478,School Uniforms,Tailoring,185
+479,Turmeric Powder,Spice Grinding,57
+480,Planters,Pottery,200
+481,Paneer,Dairy Farming,368
+482,Embroidery,Handicraft,124
+483,Lemon Pickle,Pickle Making,119
+484,Moong Papad,Papad Making,109
+485,Paneer,Dairy Farming,434
+486,Milk,Goat Rearing,319
+487,Turmeric Powder,Spice Grinding,463
+488,Milk,Goat Rearing,351
+489,Meat,Goat Rearing,420
+490,Paneer,Dairy Farming,98
+491,Moong Papad,Papad Making,92
+492,Planters,Pottery,442
+493,Basic Grooming,Beautician,445
+494,Milk,Goat Rearing,195
+495,Basic Grooming,Beautician,415
+496,Bamboo Craft,Handicraft,115
+497,Clay Pots,Pottery,364
+498,Mixed Pickle,Pickle Making,122
+499,Jute Bags,Bag Stitching,421
+500,Embroidery,Handicraft,482
+501,Mango Pickle,Pickle Making,243
+502,School Uniforms,Tailoring,25
+503,Milk,Goat Rearing,141
+504,Milk,Goat Rearing,255
+505,Jute Bags,Bag Stitching,446
+506,Ghee,Dairy Farming,135
+507,Moong Papad,Papad Making,182
+508,Milk,Goat Rearing,245
+509,Bamboo Craft,Handicraft,249
+510,Blouse Making,Tailoring,201
+511,Embroidery,Handicraft,268
+512,School Uniforms,Tailoring,337
+513,Paneer,Dairy Farming,472
+514,Moong Papad,Papad Making,229
+515,Turmeric Powder,Spice Grinding,163
+516,Moong Papad,Papad Making,411
+517,Mango Pickle,Pickle Making,364
+518,Cloth Bags,Bag Stitching,115
+519,Mehendi,Beautician,401
+520,Meat,Goat Rearing,365
+521,Embroidery,Handicraft,263
+522,Jewellery,Handicraft,105
+523,Masala Papad,Papad Making,434
+524,Jewellery,Handicraft,413
+525,Decorative Items,Pottery,203
+526,Decorative Items,Pottery,140
+527,Chilli Powder,Spice Grinding,351
+528,Moong Papad,Papad Making,111
+529,Meat,Goat Rearing,89
+530,Mixed Pickle,Pickle Making,423
+531,Turmeric Powder,Spice Grinding,152
+532,Urad Papad,Papad Making,298
+533,Masala Papad,Papad Making,156
+534,Milk,Goat Rearing,333
+535,Blouse Making,Tailoring,206
+536,Embroidery,Handicraft,240
+537,Moong Papad,Papad Making,483
+538,Ghee,Dairy Farming,457
+539,Cloth Bags,Bag Stitching,65
+540,Milk,Goat Rearing,297
+541,Bamboo Craft,Handicraft,211
+542,Turmeric Powder,Spice Grinding,27
+543,Moong Papad,Papad Making,398
+544,Embroidery,Handicraft,295
+545,Cloth Bags,Bag Stitching,198
+546,Ghee,Dairy Farming,353
+547,Mehendi,Beautician,58
+548,Bamboo Craft,Handicraft,312
+549,Jute Bags,Bag Stitching,197
+550,Cloth Bags,Bag Stitching,181
+551,Paper Bags,Bag Stitching,350
+552,School Uniforms,Tailoring,393
+553,Mixed Pickle,Pickle Making,123
+554,Milk,Dairy Farming,180
+555,School Uniforms,Tailoring,306
+556,Bamboo Craft,Handicraft,142
+557,Paneer,Dairy Farming,73
+558,Lemon Pickle,Pickle Making,447
+559,Milk,Goat Rearing,53
+560,School Uniforms,Tailoring,261
+561,Basic Grooming,Beautician,474
+562,Moong Papad,Papad Making,397
+563,Paneer,Dairy Farming,132
+564,Chilli Powder,Spice Grinding,337
+565,Planters,Pottery,42
+566,Meat,Goat Rearing,65
+567,Cloth Bags,Bag Stitching,331
+568,Bridal Makeup,Beautician,154
+569,Jute Bags,Bag Stitching,137
+570,Ghee,Dairy Farming,492
+571,School Uniforms,Tailoring,208
+572,Clay Pots,Pottery,150
+573,Paper Bags,Bag Stitching,441
+574,Urad Papad,Papad Making,231
+575,Milk,Dairy Farming,437
+576,Ghee,Dairy Farming,132
+577,Planters,Pottery,63
+578,Milk,Goat Rearing,147
+579,Saree Stitching,Tailoring,383
+580,Turmeric Powder,Spice Grinding,177
+581,Meat,Goat Rearing,292
+582,Ghee,Dairy Farming,334
+583,Paneer,Dairy Farming,413
+584,Milk,Dairy Farming,374
+585,Mixed Pickle,Pickle Making,359
+586,Milk,Goat Rearing,421
+587,Urad Papad,Papad Making,64
+588,Bridal Makeup,Beautician,127
+589,Moong Papad,Papad Making,238
+590,Cloth Bags,Bag Stitching,462
+591,Decorative Items,Pottery,337
+592,Mango Pickle,Pickle Making,334
+593,Masala Papad,Papad Making,196
+594,Decorative Items,Pottery,247
+595,Mango Pickle,Pickle Making,210
+596,Lemon Pickle,Pickle Making,490
+597,Mixed Pickle,Pickle Making,179
+598,Urad Papad,Papad Making,413
+599,Chilli Powder,Spice Grinding,286
+600,Mehendi,Beautician,377
+601,Mehendi,Beautician,345
+602,Bridal Makeup,Beautician,398
+603,Milk,Goat Rearing,209
+604,Moong Papad,Papad Making,194
+605,Paper Bags,Bag Stitching,309
+606,Saree Stitching,Tailoring,376
+607,Moong Papad,Papad Making,164
+608,Turmeric Powder,Spice Grinding,251
+609,Meat,Goat Rearing,379
+610,Masala Papad,Papad Making,457
+611,Embroidery,Handicraft,223
+612,Mehendi,Beautician,232
+613,Saree Stitching,Tailoring,59
+614,Mehendi,Beautician,294
+615,Meat,Goat Rearing,342
+616,Mango Pickle,Pickle Making,101
+617,Moong Papad,Papad Making,200
+618,Masala Papad,Papad Making,339
+619,Mango Pickle,Pickle Making,102
+620,Chilli Powder,Spice Grinding,322
+621,Jewellery,Handicraft,281
+622,Meat,Goat Rearing,291
+623,Paper Bags,Bag Stitching,219
+624,Milk,Goat Rearing,259
+625,Milk,Goat Rearing,421
+626,Masala Papad,Papad Making,199
+627,Paneer,Dairy Farming,451
+628,Basic Grooming,Beautician,190
+629,Masala Papad,Papad Making,314
+630,Lemon Pickle,Pickle Making,196
+631,Milk,Dairy Farming,388
+632,Moong Papad,Papad Making,415
+633,Ghee,Dairy Farming,256
+634,Milk,Goat Rearing,157
+635,Bamboo Craft,Handicraft,346
+636,Ghee,Dairy Farming,385
+637,Saree Stitching,Tailoring,330
+638,Mango Pickle,Pickle Making,148
+639,Turmeric Powder,Spice Grinding,68
+640,Mango Pickle,Pickle Making,183
+641,Jute Bags,Bag Stitching,296
+642,Jewellery,Handicraft,312
+643,Bamboo Craft,Handicraft,135
+644,Milk,Goat Rearing,43
+645,Milk,Dairy Farming,330
+646,Mixed Pickle,Pickle Making,44
+647,Basic Grooming,Beautician,410
+648,Turmeric Powder,Spice Grinding,146
+649,Milk,Goat Rearing,253
+650,Bridal Makeup,Beautician,228
+651,Turmeric Powder,Spice Grinding,112
+652,Decorative Items,Pottery,113
+653,Turmeric Powder,Spice Grinding,346
+654,Bridal Makeup,Beautician,244
+655,Paper Bags,Bag Stitching,474
+656,Embroidery,Handicraft,397
+657,Planters,Pottery,299
+658,Jute Bags,Bag Stitching,30
+659,Chilli Powder,Spice Grinding,348
+660,Masala Papad,Papad Making,31
+661,Bamboo Craft,Handicraft,54
+662,Urad Papad,Papad Making,466
+663,Garam Masala,Spice Grinding,471
+664,Milk,Dairy Farming,247
+665,Decorative Items,Pottery,239
+666,Milk,Goat Rearing,460
+667,Saree Stitching,Tailoring,160
+668,Milk,Goat Rearing,42
+669,Moong Papad,Papad Making,102
+670,Saree Stitching,Tailoring,248
+671,Masala Papad,Papad Making,442
+672,Milk,Goat Rearing,363
+673,Saree Stitching,Tailoring,99
+674,Garam Masala,Spice Grinding,372
+675,Mixed Pickle,Pickle Making,415
+676,Garam Masala,Spice Grinding,309
+677,Urad Papad,Papad Making,474
+678,Clay Pots,Pottery,350
+679,Mehendi,Beautician,178
+680,Moong Papad,Papad Making,496
+681,Jute Bags,Bag Stitching,147
+682,Decorative Items,Pottery,209
+683,Bridal Makeup,Beautician,416
+684,Moong Papad,Papad Making,50
+685,Bamboo Craft,Handicraft,405
+686,Jewellery,Handicraft,378
+687,Lemon Pickle,Pickle Making,34
+688,Blouse Making,Tailoring,332
+689,Planters,Pottery,94
+690,Mixed Pickle,Pickle Making,53
+691,Masala Papad,Papad Making,378
+692,Masala Papad,Papad Making,215
+693,Jewellery,Handicraft,350
+694,Saree Stitching,Tailoring,48
+695,Turmeric Powder,Spice Grinding,213
+696,Paneer,Dairy Farming,35
+697,Saree Stitching,Tailoring,442
+698,Moong Papad,Papad Making,96
+699,Masala Papad,Papad Making,312
+700,Milk,Goat Rearing,100
+701,Meat,Goat Rearing,424
+702,Mixed Pickle,Pickle Making,447
+703,Garam Masala,Spice Grinding,143
+704,Mango Pickle,Pickle Making,38
+705,Turmeric Powder,Spice Grinding,474
+706,Clay Pots,Pottery,121
+707,Clay Pots,Pottery,411
+708,Cloth Bags,Bag Stitching,96
+709,Embroidery,Handicraft,248
+710,Blouse Making,Tailoring,469
+711,Paper Bags,Bag Stitching,316
+712,Blouse Making,Tailoring,222
+713,Jute Bags,Bag Stitching,491
+714,Meat,Goat Rearing,473
+715,Ghee,Dairy Farming,80
+716,Paneer,Dairy Farming,45
+717,Garam Masala,Spice Grinding,90
+718,Meat,Goat Rearing,122
+719,Masala Papad,Papad Making,486
+720,Moong Papad,Papad Making,345
+721,Mixed Pickle,Pickle Making,382
+722,Milk,Goat Rearing,176
+723,Meat,Goat Rearing,382
+724,Garam Masala,Spice Grinding,378
+725,Milk,Dairy Farming,213
+726,Chilli Powder,Spice Grinding,294
+727,Blouse Making,Tailoring,343
+728,Meat,Goat Rearing,205
+729,School Uniforms,Tailoring,345
+730,Paneer,Dairy Farming,132
+731,Mango Pickle,Pickle Making,332
+732,Mehendi,Beautician,184
+733,Turmeric Powder,Spice Grinding,80
+734,Urad Papad,Papad Making,111
+735,Meat,Goat Rearing,305
+736,Basic Grooming,Beautician,474
+737,Mixed Pickle,Pickle Making,476
+738,Meat,Goat Rearing,172
+739,Masala Papad,Papad Making,244
+740,Embroidery,Handicraft,146
+741,Meat,Goat Rearing,212
+742,Urad Papad,Papad Making,134
+743,Lemon Pickle,Pickle Making,281
+744,Ghee,Dairy Farming,37
+745,Paper Bags,Bag Stitching,29
+746,Turmeric Powder,Spice Grinding,111
+747,Cloth Bags,Bag Stitching,158
+748,Turmeric Powder,Spice Grinding,468
+749,Mango Pickle,Pickle Making,352
+750,Mixed Pickle,Pickle Making,376
+751,Masala Papad,Papad Making,359
+752,Meat,Goat Rearing,468
+753,Masala Papad,Papad Making,71
+754,Paper Bags,Bag Stitching,214
+755,Mixed Pickle,Pickle Making,485
+756,Lemon Pickle,Pickle Making,225
+757,Clay Pots,Pottery,306
+758,Mango Pickle,Pickle Making,494
+759,Turmeric Powder,Spice Grinding,420
+760,Jewellery,Handicraft,458
+761,Garam Masala,Spice Grinding,385
+762,Basic Grooming,Beautician,112
+763,Paper Bags,Bag Stitching,439
+764,Garam Masala,Spice Grinding,429
+765,Ghee,Dairy Farming,328
+766,Lemon Pickle,Pickle Making,164
+767,Moong Papad,Papad Making,105
+768,Embroidery,Handicraft,172
+769,Jewellery,Handicraft,21
+770,Mango Pickle,Pickle Making,361
+771,Bamboo Craft,Handicraft,408
+772,Masala Papad,Papad Making,279
+773,Jute Bags,Bag Stitching,183
+774,Milk,Goat Rearing,25
+775,Embroidery,Handicraft,168
+776,Moong Papad,Papad Making,224
+777,Embroidery,Handicraft,137
+778,Cloth Bags,Bag Stitching,108
+779,Masala Papad,Papad Making,173
+780,Mixed Pickle,Pickle Making,458
+781,Mango Pickle,Pickle Making,186
+782,Mehendi,Beautician,487
+783,Bridal Makeup,Beautician,180
+784,Basic Grooming,Beautician,289
+785,School Uniforms,Tailoring,75
+786,Bridal Makeup,Beautician,247
+787,Planters,Pottery,356
+788,Mehendi,Beautician,168
+789,Garam Masala,Spice Grinding,65
+790,Cloth Bags,Bag Stitching,163
+791,Turmeric Powder,Spice Grinding,257
+792,Paneer,Dairy Farming,291
+793,Masala Papad,Papad Making,139
+794,Lemon Pickle,Pickle Making,359
+795,Chilli Powder,Spice Grinding,432
+796,Milk,Goat Rearing,239
+797,Meat,Goat Rearing,27
+798,Lemon Pickle,Pickle Making,363
+799,Bamboo Craft,Handicraft,406
+800,Decorative Items,Pottery,492
+801,Paper Bags,Bag Stitching,294
+802,Mango Pickle,Pickle Making,372
+803,Paper Bags,Bag Stitching,85
+804,Bridal Makeup,Beautician,98
+805,Lemon Pickle,Pickle Making,105
+806,Mehendi,Beautician,143
+807,Clay Pots,Pottery,221
+808,Embroidery,Handicraft,485
+809,Paper Bags,Bag Stitching,169
+810,Moong Papad,Papad Making,65
+811,Turmeric Powder,Spice Grinding,132
+812,Bridal Makeup,Beautician,110
+813,Saree Stitching,Tailoring,160
+814,Mehendi,Beautician,308
+815,Chilli Powder,Spice Grinding,408
+816,School Uniforms,Tailoring,237
+817,Lemon Pickle,Pickle Making,96
+818,Meat,Goat Rearing,430
+819,Saree Stitching,Tailoring,396
+820,Mehendi,Beautician,403
+821,Meat,Goat Rearing,353
+822,Ghee,Dairy Farming,171
+823,Embroidery,Handicraft,342
+824,Mehendi,Beautician,258
+825,Urad Papad,Papad Making,134
+826,Paneer,Dairy Farming,338
+827,Meat,Goat Rearing,388
+828,Mango Pickle,Pickle Making,113
+829,Embroidery,Handicraft,67
+830,School Uniforms,Tailoring,210
+831,Mixed Pickle,Pickle Making,481
+832,Garam Masala,Spice Grinding,31
+833,Mixed Pickle,Pickle Making,175
+834,Bamboo Craft,Handicraft,191
+835,Bridal Makeup,Beautician,496
+836,Ghee,Dairy Farming,446
+837,Cloth Bags,Bag Stitching,420
+838,Jewellery,Handicraft,315
+839,Garam Masala,Spice Grinding,196
+840,Paper Bags,Bag Stitching,360
+841,Saree Stitching,Tailoring,76
+842,Moong Papad,Papad Making,362
+843,Cloth Bags,Bag Stitching,359
+844,Blouse Making,Tailoring,467
+845,Cloth Bags,Bag Stitching,222
+846,Mehendi,Beautician,204
+847,Blouse Making,Tailoring,140
+848,Mixed Pickle,Pickle Making,245
+849,Bridal Makeup,Beautician,221
+850,Clay Pots,Pottery,349
+851,Urad Papad,Papad Making,382
+852,Chilli Powder,Spice Grinding,399
+853,Lemon Pickle,Pickle Making,473
+854,Decorative Items,Pottery,375
+855,Bridal Makeup,Beautician,235
+856,Blouse Making,Tailoring,479
+857,Bamboo Craft,Handicraft,62
+858,Meat,Goat Rearing,394
+859,Paneer,Dairy Farming,42
+860,Garam Masala,Spice Grinding,174
+861,Embroidery,Handicraft,205
+862,Cloth Bags,Bag Stitching,268
+863,Clay Pots,Pottery,256
+864,Embroidery,Handicraft,312
+865,Paper Bags,Bag Stitching,153
+866,Planters,Pottery,340
+867,Chilli Powder,Spice Grinding,409
+868,Meat,Goat Rearing,453
+869,Masala Papad,Papad Making,41
+870,Embroidery,Handicraft,380
+871,Paneer,Dairy Farming,107
+872,Lemon Pickle,Pickle Making,172
+873,Cloth Bags,Bag Stitching,144
+874,Meat,Goat Rearing,98
+875,Cloth Bags,Bag Stitching,365
+876,Clay Pots,Pottery,475
+877,Embroidery,Handicraft,70
+878,Jewellery,Handicraft,235
+879,Mango Pickle,Pickle Making,195
+880,Basic Grooming,Beautician,377
+881,Blouse Making,Tailoring,272
+882,Bamboo Craft,Handicraft,473
+883,Clay Pots,Pottery,265
+884,Paneer,Dairy Farming,246
+885,Turmeric Powder,Spice Grinding,125
+886,Mango Pickle,Pickle Making,212
+887,Lemon Pickle,Pickle Making,335
+888,Chilli Powder,Spice Grinding,321
+889,Decorative Items,Pottery,55
+890,Cloth Bags,Bag Stitching,461
+891,Masala Papad,Papad Making,223
+892,Planters,Pottery,441
+893,School Uniforms,Tailoring,286
+894,Mango Pickle,Pickle Making,287
+895,Paneer,Dairy Farming,189
+896,Jute Bags,Bag Stitching,58
+897,Cloth Bags,Bag Stitching,474
+898,Moong Papad,Papad Making,158
+899,Garam Masala,Spice Grinding,311
+900,Embroidery,Handicraft,71
+901,Mixed Pickle,Pickle Making,306
+902,Jute Bags,Bag Stitching,308
+903,Moong Papad,Papad Making,160
+904,Garam Masala,Spice Grinding,165
+905,Mango Pickle,Pickle Making,444
+906,Meat,Goat Rearing,333
+907,Clay Pots,Pottery,203
+908,Paneer,Dairy Farming,171
+909,Milk,Goat Rearing,220
+910,Urad Papad,Papad Making,147
+911,Chilli Powder,Spice Grinding,306
+912,Clay Pots,Pottery,330
+913,Milk,Dairy Farming,272
+914,Paper Bags,Bag Stitching,285
+915,Mehendi,Beautician,207
+916,Saree Stitching,Tailoring,405
+917,Milk,Goat Rearing,249
+918,Moong Papad,Papad Making,290
+919,Lemon Pickle,Pickle Making,278
+920,Jewellery,Handicraft,318
+921,Cloth Bags,Bag Stitching,434
+922,Paper Bags,Bag Stitching,217
+923,Clay Pots,Pottery,342
+924,Turmeric Powder,Spice Grinding,75
+925,Bridal Makeup,Beautician,338
+926,Embroidery,Handicraft,222
+927,Jewellery,Handicraft,290
+928,Clay Pots,Pottery,128
+929,Basic Grooming,Beautician,135
+930,Garam Masala,Spice Grinding,111
+931,Milk,Goat Rearing,157
+932,Basic Grooming,Beautician,441
+933,Jewellery,Handicraft,322
+934,Mehendi,Beautician,76
+935,Lemon Pickle,Pickle Making,69
+936,Embroidery,Handicraft,90
+937,Planters,Pottery,418
+938,Turmeric Powder,Spice Grinding,421
+939,Embroidery,Handicraft,101
+940,Saree Stitching,Tailoring,391
+941,Embroidery,Handicraft,124
+942,Basic Grooming,Beautician,107
+943,Garam Masala,Spice Grinding,21
+944,Cloth Bags,Bag Stitching,379
+945,Paneer,Dairy Farming,103
+946,Blouse Making,Tailoring,62
+947,Basic Grooming,Beautician,173
+948,Paneer,Dairy Farming,346
+949,Masala Papad,Papad Making,441
+950,Moong Papad,Papad Making,113
+951,Paper Bags,Bag Stitching,317
+952,Mixed Pickle,Pickle Making,152
+953,Paneer,Dairy Farming,414
+954,Paneer,Dairy Farming,84
+955,Paneer,Dairy Farming,309
+956,Bamboo Craft,Handicraft,395
+957,Milk,Goat Rearing,276
+958,Embroidery,Handicraft,486
+959,Mixed Pickle,Pickle Making,405
+960,School Uniforms,Tailoring,232
+961,Garam Masala,Spice Grinding,167
+962,Embroidery,Handicraft,80
+963,Milk,Dairy Farming,490
+964,Chilli Powder,Spice Grinding,168
+965,Jute Bags,Bag Stitching,107
+966,Urad Papad,Papad Making,343
+967,Ghee,Dairy Farming,402
+968,School Uniforms,Tailoring,415
+969,Urad Papad,Papad Making,297
+970,Saree Stitching,Tailoring,423
+971,School Uniforms,Tailoring,101
+972,Saree Stitching,Tailoring,148
+973,Planters,Pottery,305
+974,School Uniforms,Tailoring,401
+975,Jute Bags,Bag Stitching,372
+976,Bridal Makeup,Beautician,299
+977,Mehendi,Beautician,289
+978,Milk,Goat Rearing,311
+979,Mixed Pickle,Pickle Making,472
+980,Decorative Items,Pottery,222
+981,Jute Bags,Bag Stitching,43
+982,Mehendi,Beautician,463
+983,Mixed Pickle,Pickle Making,370
+984,Ghee,Dairy Farming,330
+985,Saree Stitching,Tailoring,480
+986,Ghee,Dairy Farming,227
+987,Paneer,Dairy Farming,299
+988,Paper Bags,Bag Stitching,224
+989,Embroidery,Handicraft,171
+990,Decorative Items,Pottery,457
+991,Lemon Pickle,Pickle Making,45
+992,Blouse Making,Tailoring,213
+993,Ghee,Dairy Farming,355
+994,Lemon Pickle,Pickle Making,441
+995,Jute Bags,Bag Stitching,257
+996,Moong Papad,Papad Making,340
+997,Milk,Goat Rearing,94
+998,Clay Pots,Pottery,454
+999,Ghee,Dairy Farming,182
+1000,Basic Grooming,Beautician,318

@@ -1,0 +1,1 @@
+Run with:\n\ncd streamlit_app\npython -m venv venv\nvenv\\Scripts\\activate\npip install -r requirements.txt\nstreamlit run Home.py\n

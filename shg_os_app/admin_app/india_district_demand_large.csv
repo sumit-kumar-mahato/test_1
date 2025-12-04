@@ -1,0 +1,601 @@
+state,district,latitude,longitude,skill_category,monthly_demand,priority_level
+Gujarat,Ahmedabad,23.0225,72.5714,Tailoring,6284,4
+Gujarat,Ahmedabad,23.0225,72.5714,Papad Making,33419,3
+Gujarat,Ahmedabad,23.0225,72.5714,Pickle Making,22784,5
+Gujarat,Ahmedabad,23.0225,72.5714,Pottery,6125,4
+Gujarat,Ahmedabad,23.0225,72.5714,Bag Stitching,11670,1
+Gujarat,Ahmedabad,23.0225,72.5714,Goat Rearing,27270,5
+Gujarat,Ahmedabad,23.0225,72.5714,Dairy Farming,37316,4
+Gujarat,Ahmedabad,23.0225,72.5714,Spice Grinding,36438,4
+Gujarat,Ahmedabad,23.0225,72.5714,Handicraft,26634,1
+Gujarat,Ahmedabad,23.0225,72.5714,Beautician,42307,3
+Gujarat,Ahmedabad,23.0225,72.5714,Embroidery,26016,2
+Gujarat,Ahmedabad,23.0225,72.5714,Textile Weaving,10762,5
+Gujarat,Ahmedabad,23.0225,72.5714,Snacks Making,39515,4
+Gujarat,Ahmedabad,23.0225,72.5714,Candle Making,21315,5
+Gujarat,Ahmedabad,23.0225,72.5714,Incense Stick Making,28180,3
+Gujarat,Surat,21.1702,72.8311,Tailoring,23622,2
+Gujarat,Surat,21.1702,72.8311,Papad Making,6422,3
+Gujarat,Surat,21.1702,72.8311,Pickle Making,44618,1
+Gujarat,Surat,21.1702,72.8311,Pottery,43197,5
+Gujarat,Surat,21.1702,72.8311,Bag Stitching,15284,4
+Gujarat,Surat,21.1702,72.8311,Goat Rearing,9930,4
+Gujarat,Surat,21.1702,72.8311,Dairy Farming,35625,2
+Gujarat,Surat,21.1702,72.8311,Spice Grinding,5260,5
+Gujarat,Surat,21.1702,72.8311,Handicraft,23392,5
+Gujarat,Surat,21.1702,72.8311,Beautician,34540,4
+Gujarat,Surat,21.1702,72.8311,Embroidery,38475,1
+Gujarat,Surat,21.1702,72.8311,Textile Weaving,19467,3
+Gujarat,Surat,21.1702,72.8311,Snacks Making,25893,1
+Gujarat,Surat,21.1702,72.8311,Candle Making,28235,1
+Gujarat,Surat,21.1702,72.8311,Incense Stick Making,37682,4
+Gujarat,Vadodara,22.3072,73.1812,Tailoring,46281,4
+Gujarat,Vadodara,22.3072,73.1812,Papad Making,19598,5
+Gujarat,Vadodara,22.3072,73.1812,Pickle Making,21720,2
+Gujarat,Vadodara,22.3072,73.1812,Pottery,45465,2
+Gujarat,Vadodara,22.3072,73.1812,Bag Stitching,5664,3
+Gujarat,Vadodara,22.3072,73.1812,Goat Rearing,40192,1
+Gujarat,Vadodara,22.3072,73.1812,Dairy Farming,24221,1
+Gujarat,Vadodara,22.3072,73.1812,Spice Grinding,34950,3
+Gujarat,Vadodara,22.3072,73.1812,Handicraft,17849,2
+Gujarat,Vadodara,22.3072,73.1812,Beautician,29095,4
+Gujarat,Vadodara,22.3072,73.1812,Embroidery,47134,3
+Gujarat,Vadodara,22.3072,73.1812,Textile Weaving,9713,5
+Gujarat,Vadodara,22.3072,73.1812,Snacks Making,32228,4
+Gujarat,Vadodara,22.3072,73.1812,Candle Making,6666,2
+Gujarat,Vadodara,22.3072,73.1812,Incense Stick Making,38856,5
+Rajasthan,Jaipur,26.9124,75.7873,Tailoring,22890,5
+Rajasthan,Jaipur,26.9124,75.7873,Papad Making,42401,2
+Rajasthan,Jaipur,26.9124,75.7873,Pickle Making,45108,2
+Rajasthan,Jaipur,26.9124,75.7873,Pottery,13498,4
+Rajasthan,Jaipur,26.9124,75.7873,Bag Stitching,32564,1
+Rajasthan,Jaipur,26.9124,75.7873,Goat Rearing,41971,1
+Rajasthan,Jaipur,26.9124,75.7873,Dairy Farming,40635,1
+Rajasthan,Jaipur,26.9124,75.7873,Spice Grinding,40248,4
+Rajasthan,Jaipur,26.9124,75.7873,Handicraft,39457,4
+Rajasthan,Jaipur,26.9124,75.7873,Beautician,24635,4
+Rajasthan,Jaipur,26.9124,75.7873,Embroidery,15301,4
+Rajasthan,Jaipur,26.9124,75.7873,Textile Weaving,28671,3
+Rajasthan,Jaipur,26.9124,75.7873,Snacks Making,26269,3
+Rajasthan,Jaipur,26.9124,75.7873,Candle Making,3788,1
+Rajasthan,Jaipur,26.9124,75.7873,Incense Stick Making,13783,1
+Rajasthan,Udaipur,24.5854,73.7125,Tailoring,23101,4
+Rajasthan,Udaipur,24.5854,73.7125,Papad Making,33412,3
+Rajasthan,Udaipur,24.5854,73.7125,Pickle Making,43043,3
+Rajasthan,Udaipur,24.5854,73.7125,Pottery,5801,4
+Rajasthan,Udaipur,24.5854,73.7125,Bag Stitching,29580,4
+Rajasthan,Udaipur,24.5854,73.7125,Goat Rearing,29137,3
+Rajasthan,Udaipur,24.5854,73.7125,Dairy Farming,6347,3
+Rajasthan,Udaipur,24.5854,73.7125,Spice Grinding,40155,2
+Rajasthan,Udaipur,24.5854,73.7125,Handicraft,30936,1
+Rajasthan,Udaipur,24.5854,73.7125,Beautician,18679,3
+Rajasthan,Udaipur,24.5854,73.7125,Embroidery,49171,2
+Rajasthan,Udaipur,24.5854,73.7125,Textile Weaving,15274,3
+Rajasthan,Udaipur,24.5854,73.7125,Snacks Making,49647,5
+Rajasthan,Udaipur,24.5854,73.7125,Candle Making,3665,2
+Rajasthan,Udaipur,24.5854,73.7125,Incense Stick Making,41440,1
+Rajasthan,Jodhpur,26.2389,73.0243,Tailoring,43072,2
+Rajasthan,Jodhpur,26.2389,73.0243,Papad Making,46047,2
+Rajasthan,Jodhpur,26.2389,73.0243,Pickle Making,22847,4
+Rajasthan,Jodhpur,26.2389,73.0243,Pottery,8061,3
+Rajasthan,Jodhpur,26.2389,73.0243,Bag Stitching,26240,4
+Rajasthan,Jodhpur,26.2389,73.0243,Goat Rearing,49813,4
+Rajasthan,Jodhpur,26.2389,73.0243,Dairy Farming,21640,3
+Rajasthan,Jodhpur,26.2389,73.0243,Spice Grinding,22062,5
+Rajasthan,Jodhpur,26.2389,73.0243,Handicraft,17418,1
+Rajasthan,Jodhpur,26.2389,73.0243,Beautician,18045,1
+Rajasthan,Jodhpur,26.2389,73.0243,Embroidery,7094,1
+Rajasthan,Jodhpur,26.2389,73.0243,Textile Weaving,39034,4
+Rajasthan,Jodhpur,26.2389,73.0243,Snacks Making,35444,3
+Rajasthan,Jodhpur,26.2389,73.0243,Candle Making,36418,1
+Rajasthan,Jodhpur,26.2389,73.0243,Incense Stick Making,45229,3
+Maharashtra,Mumbai,19.076,72.8777,Tailoring,47026,1
+Maharashtra,Mumbai,19.076,72.8777,Papad Making,25871,4
+Maharashtra,Mumbai,19.076,72.8777,Pickle Making,25790,3
+Maharashtra,Mumbai,19.076,72.8777,Pottery,9978,2
+Maharashtra,Mumbai,19.076,72.8777,Bag Stitching,13460,2
+Maharashtra,Mumbai,19.076,72.8777,Goat Rearing,34817,4
+Maharashtra,Mumbai,19.076,72.8777,Dairy Farming,31145,2
+Maharashtra,Mumbai,19.076,72.8777,Spice Grinding,48065,1
+Maharashtra,Mumbai,19.076,72.8777,Handicraft,18444,1
+Maharashtra,Mumbai,19.076,72.8777,Beautician,18269,5
+Maharashtra,Mumbai,19.076,72.8777,Embroidery,19580,5
+Maharashtra,Mumbai,19.076,72.8777,Textile Weaving,25763,4
+Maharashtra,Mumbai,19.076,72.8777,Snacks Making,23956,2
+Maharashtra,Mumbai,19.076,72.8777,Candle Making,38683,5
+Maharashtra,Mumbai,19.076,72.8777,Incense Stick Making,14649,4
+Maharashtra,Pune,18.5204,73.8567,Tailoring,14534,4
+Maharashtra,Pune,18.5204,73.8567,Papad Making,39872,3
+Maharashtra,Pune,18.5204,73.8567,Pickle Making,37372,2
+Maharashtra,Pune,18.5204,73.8567,Pottery,5804,1
+Maharashtra,Pune,18.5204,73.8567,Bag Stitching,23457,5
+Maharashtra,Pune,18.5204,73.8567,Goat Rearing,8123,3
+Maharashtra,Pune,18.5204,73.8567,Dairy Farming,35793,2
+Maharashtra,Pune,18.5204,73.8567,Spice Grinding,36637,2
+Maharashtra,Pune,18.5204,73.8567,Handicraft,40815,3
+Maharashtra,Pune,18.5204,73.8567,Beautician,28251,1
+Maharashtra,Pune,18.5204,73.8567,Embroidery,24233,5
+Maharashtra,Pune,18.5204,73.8567,Textile Weaving,2937,4
+Maharashtra,Pune,18.5204,73.8567,Snacks Making,25652,4
+Maharashtra,Pune,18.5204,73.8567,Candle Making,33838,3
+Maharashtra,Pune,18.5204,73.8567,Incense Stick Making,16816,4
+Maharashtra,Nagpur,21.1458,79.0882,Tailoring,8730,3
+Maharashtra,Nagpur,21.1458,79.0882,Papad Making,6545,4
+Maharashtra,Nagpur,21.1458,79.0882,Pickle Making,32179,1
+Maharashtra,Nagpur,21.1458,79.0882,Pottery,38359,3
+Maharashtra,Nagpur,21.1458,79.0882,Bag Stitching,39770,1
+Maharashtra,Nagpur,21.1458,79.0882,Goat Rearing,10613,3
+Maharashtra,Nagpur,21.1458,79.0882,Dairy Farming,11034,2
+Maharashtra,Nagpur,21.1458,79.0882,Spice Grinding,33708,1
+Maharashtra,Nagpur,21.1458,79.0882,Handicraft,34529,1
+Maharashtra,Nagpur,21.1458,79.0882,Beautician,10408,3
+Maharashtra,Nagpur,21.1458,79.0882,Embroidery,40087,1
+Maharashtra,Nagpur,21.1458,79.0882,Textile Weaving,16399,5
+Maharashtra,Nagpur,21.1458,79.0882,Snacks Making,49504,3
+Maharashtra,Nagpur,21.1458,79.0882,Candle Making,23457,2
+Maharashtra,Nagpur,21.1458,79.0882,Incense Stick Making,31397,3
+Madhya Pradesh,Indore,22.7196,75.8577,Tailoring,16148,1
+Madhya Pradesh,Indore,22.7196,75.8577,Papad Making,9271,5
+Madhya Pradesh,Indore,22.7196,75.8577,Pickle Making,22071,3
+Madhya Pradesh,Indore,22.7196,75.8577,Pottery,24421,4
+Madhya Pradesh,Indore,22.7196,75.8577,Bag Stitching,5117,1
+Madhya Pradesh,Indore,22.7196,75.8577,Goat Rearing,15240,3
+Madhya Pradesh,Indore,22.7196,75.8577,Dairy Farming,34213,3
+Madhya Pradesh,Indore,22.7196,75.8577,Spice Grinding,23176,5
+Madhya Pradesh,Indore,22.7196,75.8577,Handicraft,9728,3
+Madhya Pradesh,Indore,22.7196,75.8577,Beautician,28027,3
+Madhya Pradesh,Indore,22.7196,75.8577,Embroidery,40764,2
+Madhya Pradesh,Indore,22.7196,75.8577,Textile Weaving,47781,2
+Madhya Pradesh,Indore,22.7196,75.8577,Snacks Making,28160,3
+Madhya Pradesh,Indore,22.7196,75.8577,Candle Making,42789,3
+Madhya Pradesh,Indore,22.7196,75.8577,Incense Stick Making,15658,1
+Madhya Pradesh,Bhopal,23.2599,77.4126,Tailoring,19456,5
+Madhya Pradesh,Bhopal,23.2599,77.4126,Papad Making,2475,5
+Madhya Pradesh,Bhopal,23.2599,77.4126,Pickle Making,28055,1
+Madhya Pradesh,Bhopal,23.2599,77.4126,Pottery,16504,3
+Madhya Pradesh,Bhopal,23.2599,77.4126,Bag Stitching,17153,1
+Madhya Pradesh,Bhopal,23.2599,77.4126,Goat Rearing,33967,4
+Madhya Pradesh,Bhopal,23.2599,77.4126,Dairy Farming,7705,2
+Madhya Pradesh,Bhopal,23.2599,77.4126,Spice Grinding,13705,4
+Madhya Pradesh,Bhopal,23.2599,77.4126,Handicraft,37054,4
+Madhya Pradesh,Bhopal,23.2599,77.4126,Beautician,47060,4
+Madhya Pradesh,Bhopal,23.2599,77.4126,Embroidery,17392,1
+Madhya Pradesh,Bhopal,23.2599,77.4126,Textile Weaving,31502,5
+Madhya Pradesh,Bhopal,23.2599,77.4126,Snacks Making,48807,2
+Madhya Pradesh,Bhopal,23.2599,77.4126,Candle Making,13349,1
+Madhya Pradesh,Bhopal,23.2599,77.4126,Incense Stick Making,8780,3
+Madhya Pradesh,Gwalior,26.2183,78.1828,Tailoring,28246,2
+Madhya Pradesh,Gwalior,26.2183,78.1828,Papad Making,16877,5
+Madhya Pradesh,Gwalior,26.2183,78.1828,Pickle Making,24081,5
+Madhya Pradesh,Gwalior,26.2183,78.1828,Pottery,48234,2
+Madhya Pradesh,Gwalior,26.2183,78.1828,Bag Stitching,11731,5
+Madhya Pradesh,Gwalior,26.2183,78.1828,Goat Rearing,32471,2
+Madhya Pradesh,Gwalior,26.2183,78.1828,Dairy Farming,31849,3
+Madhya Pradesh,Gwalior,26.2183,78.1828,Spice Grinding,45465,2
+Madhya Pradesh,Gwalior,26.2183,78.1828,Handicraft,49586,5
+Madhya Pradesh,Gwalior,26.2183,78.1828,Beautician,10673,1
+Madhya Pradesh,Gwalior,26.2183,78.1828,Embroidery,27591,1
+Madhya Pradesh,Gwalior,26.2183,78.1828,Textile Weaving,16342,3
+Madhya Pradesh,Gwalior,26.2183,78.1828,Snacks Making,48529,5
+Madhya Pradesh,Gwalior,26.2183,78.1828,Candle Making,9273,5
+Madhya Pradesh,Gwalior,26.2183,78.1828,Incense Stick Making,6364,4
+Uttar Pradesh,Lucknow,26.8467,80.9462,Tailoring,42590,5
+Uttar Pradesh,Lucknow,26.8467,80.9462,Papad Making,12724,5
+Uttar Pradesh,Lucknow,26.8467,80.9462,Pickle Making,7567,3
+Uttar Pradesh,Lucknow,26.8467,80.9462,Pottery,24538,2
+Uttar Pradesh,Lucknow,26.8467,80.9462,Bag Stitching,3061,4
+Uttar Pradesh,Lucknow,26.8467,80.9462,Goat Rearing,18108,4
+Uttar Pradesh,Lucknow,26.8467,80.9462,Dairy Farming,21690,2
+Uttar Pradesh,Lucknow,26.8467,80.9462,Spice Grinding,44542,1
+Uttar Pradesh,Lucknow,26.8467,80.9462,Handicraft,37357,4
+Uttar Pradesh,Lucknow,26.8467,80.9462,Beautician,20239,2
+Uttar Pradesh,Lucknow,26.8467,80.9462,Embroidery,2254,5
+Uttar Pradesh,Lucknow,26.8467,80.9462,Textile Weaving,47491,2
+Uttar Pradesh,Lucknow,26.8467,80.9462,Snacks Making,3531,1
+Uttar Pradesh,Lucknow,26.8467,80.9462,Candle Making,5246,5
+Uttar Pradesh,Lucknow,26.8467,80.9462,Incense Stick Making,44811,1
+Uttar Pradesh,Kanpur,26.4499,80.3319,Tailoring,37843,1
+Uttar Pradesh,Kanpur,26.4499,80.3319,Papad Making,19626,3
+Uttar Pradesh,Kanpur,26.4499,80.3319,Pickle Making,36556,5
+Uttar Pradesh,Kanpur,26.4499,80.3319,Pottery,4149,1
+Uttar Pradesh,Kanpur,26.4499,80.3319,Bag Stitching,15464,2
+Uttar Pradesh,Kanpur,26.4499,80.3319,Goat Rearing,49905,4
+Uttar Pradesh,Kanpur,26.4499,80.3319,Dairy Farming,17380,5
+Uttar Pradesh,Kanpur,26.4499,80.3319,Spice Grinding,25966,3
+Uttar Pradesh,Kanpur,26.4499,80.3319,Handicraft,22817,1
+Uttar Pradesh,Kanpur,26.4499,80.3319,Beautician,46849,1
+Uttar Pradesh,Kanpur,26.4499,80.3319,Embroidery,10365,2
+Uttar Pradesh,Kanpur,26.4499,80.3319,Textile Weaving,15406,1
+Uttar Pradesh,Kanpur,26.4499,80.3319,Snacks Making,2862,4
+Uttar Pradesh,Kanpur,26.4499,80.3319,Candle Making,48526,1
+Uttar Pradesh,Kanpur,26.4499,80.3319,Incense Stick Making,16233,3
+Uttar Pradesh,Varanasi,25.3176,82.9739,Tailoring,46520,4
+Uttar Pradesh,Varanasi,25.3176,82.9739,Papad Making,38777,3
+Uttar Pradesh,Varanasi,25.3176,82.9739,Pickle Making,22017,1
+Uttar Pradesh,Varanasi,25.3176,82.9739,Pottery,43487,5
+Uttar Pradesh,Varanasi,25.3176,82.9739,Bag Stitching,3204,4
+Uttar Pradesh,Varanasi,25.3176,82.9739,Goat Rearing,6050,4
+Uttar Pradesh,Varanasi,25.3176,82.9739,Dairy Farming,41645,1
+Uttar Pradesh,Varanasi,25.3176,82.9739,Spice Grinding,22824,1
+Uttar Pradesh,Varanasi,25.3176,82.9739,Handicraft,29229,5
+Uttar Pradesh,Varanasi,25.3176,82.9739,Beautician,5881,2
+Uttar Pradesh,Varanasi,25.3176,82.9739,Embroidery,48709,2
+Uttar Pradesh,Varanasi,25.3176,82.9739,Textile Weaving,8346,3
+Uttar Pradesh,Varanasi,25.3176,82.9739,Snacks Making,26401,4
+Uttar Pradesh,Varanasi,25.3176,82.9739,Candle Making,17059,5
+Uttar Pradesh,Varanasi,25.3176,82.9739,Incense Stick Making,27009,2
+Bihar,Patna,25.5941,85.1376,Tailoring,48093,5
+Bihar,Patna,25.5941,85.1376,Papad Making,25959,1
+Bihar,Patna,25.5941,85.1376,Pickle Making,30652,3
+Bihar,Patna,25.5941,85.1376,Pottery,9114,4
+Bihar,Patna,25.5941,85.1376,Bag Stitching,42358,1
+Bihar,Patna,25.5941,85.1376,Goat Rearing,36719,1
+Bihar,Patna,25.5941,85.1376,Dairy Farming,37943,3
+Bihar,Patna,25.5941,85.1376,Spice Grinding,2312,5
+Bihar,Patna,25.5941,85.1376,Handicraft,9966,3
+Bihar,Patna,25.5941,85.1376,Beautician,10710,5
+Bihar,Patna,25.5941,85.1376,Embroidery,37439,5
+Bihar,Patna,25.5941,85.1376,Textile Weaving,22739,3
+Bihar,Patna,25.5941,85.1376,Snacks Making,32446,4
+Bihar,Patna,25.5941,85.1376,Candle Making,42655,1
+Bihar,Patna,25.5941,85.1376,Incense Stick Making,33850,1
+Bihar,Gaya,24.7914,85.0002,Tailoring,15820,5
+Bihar,Gaya,24.7914,85.0002,Papad Making,14024,4
+Bihar,Gaya,24.7914,85.0002,Pickle Making,24224,2
+Bihar,Gaya,24.7914,85.0002,Pottery,18043,3
+Bihar,Gaya,24.7914,85.0002,Bag Stitching,38727,4
+Bihar,Gaya,24.7914,85.0002,Goat Rearing,46794,5
+Bihar,Gaya,24.7914,85.0002,Dairy Farming,38160,4
+Bihar,Gaya,24.7914,85.0002,Spice Grinding,15913,3
+Bihar,Gaya,24.7914,85.0002,Handicraft,7706,2
+Bihar,Gaya,24.7914,85.0002,Beautician,46470,3
+Bihar,Gaya,24.7914,85.0002,Embroidery,7458,4
+Bihar,Gaya,24.7914,85.0002,Textile Weaving,48205,5
+Bihar,Gaya,24.7914,85.0002,Snacks Making,15155,3
+Bihar,Gaya,24.7914,85.0002,Candle Making,27488,2
+Bihar,Gaya,24.7914,85.0002,Incense Stick Making,14897,2
+Bihar,Bhagalpur,25.2417,86.9842,Tailoring,49739,4
+Bihar,Bhagalpur,25.2417,86.9842,Papad Making,42361,5
+Bihar,Bhagalpur,25.2417,86.9842,Pickle Making,48038,1
+Bihar,Bhagalpur,25.2417,86.9842,Pottery,44318,1
+Bihar,Bhagalpur,25.2417,86.9842,Bag Stitching,24820,3
+Bihar,Bhagalpur,25.2417,86.9842,Goat Rearing,19177,1
+Bihar,Bhagalpur,25.2417,86.9842,Dairy Farming,11230,5
+Bihar,Bhagalpur,25.2417,86.9842,Spice Grinding,17298,2
+Bihar,Bhagalpur,25.2417,86.9842,Handicraft,46321,1
+Bihar,Bhagalpur,25.2417,86.9842,Beautician,45932,5
+Bihar,Bhagalpur,25.2417,86.9842,Embroidery,30730,1
+Bihar,Bhagalpur,25.2417,86.9842,Textile Weaving,9481,2
+Bihar,Bhagalpur,25.2417,86.9842,Snacks Making,29715,1
+Bihar,Bhagalpur,25.2417,86.9842,Candle Making,23871,1
+Bihar,Bhagalpur,25.2417,86.9842,Incense Stick Making,27933,1
+Tamil Nadu,Chennai,13.0827,80.2707,Tailoring,36033,1
+Tamil Nadu,Chennai,13.0827,80.2707,Papad Making,11351,1
+Tamil Nadu,Chennai,13.0827,80.2707,Pickle Making,41887,1
+Tamil Nadu,Chennai,13.0827,80.2707,Pottery,22604,3
+Tamil Nadu,Chennai,13.0827,80.2707,Bag Stitching,26767,4
+Tamil Nadu,Chennai,13.0827,80.2707,Goat Rearing,40548,2
+Tamil Nadu,Chennai,13.0827,80.2707,Dairy Farming,41754,2
+Tamil Nadu,Chennai,13.0827,80.2707,Spice Grinding,49252,3
+Tamil Nadu,Chennai,13.0827,80.2707,Handicraft,37328,5
+Tamil Nadu,Chennai,13.0827,80.2707,Beautician,40047,5
+Tamil Nadu,Chennai,13.0827,80.2707,Embroidery,27752,1
+Tamil Nadu,Chennai,13.0827,80.2707,Textile Weaving,25668,1
+Tamil Nadu,Chennai,13.0827,80.2707,Snacks Making,44677,2
+Tamil Nadu,Chennai,13.0827,80.2707,Candle Making,12947,2
+Tamil Nadu,Chennai,13.0827,80.2707,Incense Stick Making,32843,3
+Tamil Nadu,Coimbatore,11.0168,76.9558,Tailoring,47544,3
+Tamil Nadu,Coimbatore,11.0168,76.9558,Papad Making,15549,1
+Tamil Nadu,Coimbatore,11.0168,76.9558,Pickle Making,2339,2
+Tamil Nadu,Coimbatore,11.0168,76.9558,Pottery,46439,3
+Tamil Nadu,Coimbatore,11.0168,76.9558,Bag Stitching,44890,1
+Tamil Nadu,Coimbatore,11.0168,76.9558,Goat Rearing,6479,5
+Tamil Nadu,Coimbatore,11.0168,76.9558,Dairy Farming,7123,1
+Tamil Nadu,Coimbatore,11.0168,76.9558,Spice Grinding,21396,5
+Tamil Nadu,Coimbatore,11.0168,76.9558,Handicraft,35090,1
+Tamil Nadu,Coimbatore,11.0168,76.9558,Beautician,42182,5
+Tamil Nadu,Coimbatore,11.0168,76.9558,Embroidery,40433,5
+Tamil Nadu,Coimbatore,11.0168,76.9558,Textile Weaving,13514,5
+Tamil Nadu,Coimbatore,11.0168,76.9558,Snacks Making,17393,5
+Tamil Nadu,Coimbatore,11.0168,76.9558,Candle Making,29809,4
+Tamil Nadu,Coimbatore,11.0168,76.9558,Incense Stick Making,32135,4
+Tamil Nadu,Madurai,9.9252,78.1198,Tailoring,31581,4
+Tamil Nadu,Madurai,9.9252,78.1198,Papad Making,37474,1
+Tamil Nadu,Madurai,9.9252,78.1198,Pickle Making,41650,3
+Tamil Nadu,Madurai,9.9252,78.1198,Pottery,17508,3
+Tamil Nadu,Madurai,9.9252,78.1198,Bag Stitching,48415,5
+Tamil Nadu,Madurai,9.9252,78.1198,Goat Rearing,42017,3
+Tamil Nadu,Madurai,9.9252,78.1198,Dairy Farming,39638,2
+Tamil Nadu,Madurai,9.9252,78.1198,Spice Grinding,34935,4
+Tamil Nadu,Madurai,9.9252,78.1198,Handicraft,13990,2
+Tamil Nadu,Madurai,9.9252,78.1198,Beautician,4934,1
+Tamil Nadu,Madurai,9.9252,78.1198,Embroidery,22813,3
+Tamil Nadu,Madurai,9.9252,78.1198,Textile Weaving,9925,3
+Tamil Nadu,Madurai,9.9252,78.1198,Snacks Making,31000,2
+Tamil Nadu,Madurai,9.9252,78.1198,Candle Making,18235,2
+Tamil Nadu,Madurai,9.9252,78.1198,Incense Stick Making,26242,2
+Karnataka,Bengaluru,12.9716,77.5946,Tailoring,37373,2
+Karnataka,Bengaluru,12.9716,77.5946,Papad Making,22827,2
+Karnataka,Bengaluru,12.9716,77.5946,Pickle Making,10779,4
+Karnataka,Bengaluru,12.9716,77.5946,Pottery,13301,2
+Karnataka,Bengaluru,12.9716,77.5946,Bag Stitching,40052,5
+Karnataka,Bengaluru,12.9716,77.5946,Goat Rearing,34200,5
+Karnataka,Bengaluru,12.9716,77.5946,Dairy Farming,43001,3
+Karnataka,Bengaluru,12.9716,77.5946,Spice Grinding,38973,2
+Karnataka,Bengaluru,12.9716,77.5946,Handicraft,24103,3
+Karnataka,Bengaluru,12.9716,77.5946,Beautician,48103,5
+Karnataka,Bengaluru,12.9716,77.5946,Embroidery,25484,4
+Karnataka,Bengaluru,12.9716,77.5946,Textile Weaving,11713,5
+Karnataka,Bengaluru,12.9716,77.5946,Snacks Making,28545,3
+Karnataka,Bengaluru,12.9716,77.5946,Candle Making,38781,4
+Karnataka,Bengaluru,12.9716,77.5946,Incense Stick Making,5478,2
+Karnataka,Mysuru,12.2958,76.6394,Tailoring,10482,4
+Karnataka,Mysuru,12.2958,76.6394,Papad Making,3687,2
+Karnataka,Mysuru,12.2958,76.6394,Pickle Making,30677,4
+Karnataka,Mysuru,12.2958,76.6394,Pottery,26158,5
+Karnataka,Mysuru,12.2958,76.6394,Bag Stitching,46109,1
+Karnataka,Mysuru,12.2958,76.6394,Goat Rearing,47720,4
+Karnataka,Mysuru,12.2958,76.6394,Dairy Farming,32538,1
+Karnataka,Mysuru,12.2958,76.6394,Spice Grinding,31849,4
+Karnataka,Mysuru,12.2958,76.6394,Handicraft,29877,1
+Karnataka,Mysuru,12.2958,76.6394,Beautician,27114,5
+Karnataka,Mysuru,12.2958,76.6394,Embroidery,36723,1
+Karnataka,Mysuru,12.2958,76.6394,Textile Weaving,48077,5
+Karnataka,Mysuru,12.2958,76.6394,Snacks Making,10130,5
+Karnataka,Mysuru,12.2958,76.6394,Candle Making,21522,3
+Karnataka,Mysuru,12.2958,76.6394,Incense Stick Making,23368,4
+Karnataka,Hubli,15.3647,75.124,Tailoring,49839,4
+Karnataka,Hubli,15.3647,75.124,Papad Making,46705,5
+Karnataka,Hubli,15.3647,75.124,Pickle Making,6325,2
+Karnataka,Hubli,15.3647,75.124,Pottery,36649,3
+Karnataka,Hubli,15.3647,75.124,Bag Stitching,4407,1
+Karnataka,Hubli,15.3647,75.124,Goat Rearing,26986,4
+Karnataka,Hubli,15.3647,75.124,Dairy Farming,10050,1
+Karnataka,Hubli,15.3647,75.124,Spice Grinding,8208,3
+Karnataka,Hubli,15.3647,75.124,Handicraft,2376,3
+Karnataka,Hubli,15.3647,75.124,Beautician,24844,3
+Karnataka,Hubli,15.3647,75.124,Embroidery,34605,3
+Karnataka,Hubli,15.3647,75.124,Textile Weaving,36931,4
+Karnataka,Hubli,15.3647,75.124,Snacks Making,46165,4
+Karnataka,Hubli,15.3647,75.124,Candle Making,26849,3
+Karnataka,Hubli,15.3647,75.124,Incense Stick Making,13314,3
+Telangana,Hyderabad,17.385,78.4867,Tailoring,8678,5
+Telangana,Hyderabad,17.385,78.4867,Papad Making,42562,1
+Telangana,Hyderabad,17.385,78.4867,Pickle Making,39725,1
+Telangana,Hyderabad,17.385,78.4867,Pottery,36618,1
+Telangana,Hyderabad,17.385,78.4867,Bag Stitching,25433,4
+Telangana,Hyderabad,17.385,78.4867,Goat Rearing,36982,3
+Telangana,Hyderabad,17.385,78.4867,Dairy Farming,46237,4
+Telangana,Hyderabad,17.385,78.4867,Spice Grinding,11996,4
+Telangana,Hyderabad,17.385,78.4867,Handicraft,37065,2
+Telangana,Hyderabad,17.385,78.4867,Beautician,37435,5
+Telangana,Hyderabad,17.385,78.4867,Embroidery,41221,4
+Telangana,Hyderabad,17.385,78.4867,Textile Weaving,32455,2
+Telangana,Hyderabad,17.385,78.4867,Snacks Making,40170,2
+Telangana,Hyderabad,17.385,78.4867,Candle Making,27545,2
+Telangana,Hyderabad,17.385,78.4867,Incense Stick Making,17024,1
+Telangana,Warangal,17.9784,79.5941,Tailoring,48142,1
+Telangana,Warangal,17.9784,79.5941,Papad Making,6140,5
+Telangana,Warangal,17.9784,79.5941,Pickle Making,28640,3
+Telangana,Warangal,17.9784,79.5941,Pottery,37399,2
+Telangana,Warangal,17.9784,79.5941,Bag Stitching,8140,4
+Telangana,Warangal,17.9784,79.5941,Goat Rearing,10447,3
+Telangana,Warangal,17.9784,79.5941,Dairy Farming,47555,5
+Telangana,Warangal,17.9784,79.5941,Spice Grinding,19317,4
+Telangana,Warangal,17.9784,79.5941,Handicraft,31408,3
+Telangana,Warangal,17.9784,79.5941,Beautician,8716,2
+Telangana,Warangal,17.9784,79.5941,Embroidery,33292,5
+Telangana,Warangal,17.9784,79.5941,Textile Weaving,2234,4
+Telangana,Warangal,17.9784,79.5941,Snacks Making,42624,5
+Telangana,Warangal,17.9784,79.5941,Candle Making,22342,1
+Telangana,Warangal,17.9784,79.5941,Incense Stick Making,15006,5
+Andhra Pradesh,Vijayawada,16.5062,80.648,Tailoring,44140,4
+Andhra Pradesh,Vijayawada,16.5062,80.648,Papad Making,7891,1
+Andhra Pradesh,Vijayawada,16.5062,80.648,Pickle Making,24952,3
+Andhra Pradesh,Vijayawada,16.5062,80.648,Pottery,3554,4
+Andhra Pradesh,Vijayawada,16.5062,80.648,Bag Stitching,28136,1
+Andhra Pradesh,Vijayawada,16.5062,80.648,Goat Rearing,6592,3
+Andhra Pradesh,Vijayawada,16.5062,80.648,Dairy Farming,36684,5
+Andhra Pradesh,Vijayawada,16.5062,80.648,Spice Grinding,22702,2
+Andhra Pradesh,Vijayawada,16.5062,80.648,Handicraft,48478,3
+Andhra Pradesh,Vijayawada,16.5062,80.648,Beautician,17138,3
+Andhra Pradesh,Vijayawada,16.5062,80.648,Embroidery,2580,2
+Andhra Pradesh,Vijayawada,16.5062,80.648,Textile Weaving,26746,5
+Andhra Pradesh,Vijayawada,16.5062,80.648,Snacks Making,37434,4
+Andhra Pradesh,Vijayawada,16.5062,80.648,Candle Making,28155,1
+Andhra Pradesh,Vijayawada,16.5062,80.648,Incense Stick Making,20764,5
+Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Tailoring,4120,5
+Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Papad Making,34855,2
+Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Pickle Making,39343,5
+Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Pottery,4074,1
+Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Bag Stitching,33955,5
+Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Goat Rearing,3150,4
+Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Dairy Farming,8553,4
+Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Spice Grinding,31919,1
+Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Handicraft,34674,5
+Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Beautician,43445,1
+Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Embroidery,13803,2
+Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Textile Weaving,23758,1
+Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Snacks Making,43008,4
+Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Candle Making,40800,1
+Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Incense Stick Making,2699,5
+Odisha,Bhubaneswar,20.2961,85.8245,Tailoring,15867,4
+Odisha,Bhubaneswar,20.2961,85.8245,Papad Making,45652,1
+Odisha,Bhubaneswar,20.2961,85.8245,Pickle Making,2262,1
+Odisha,Bhubaneswar,20.2961,85.8245,Pottery,9503,1
+Odisha,Bhubaneswar,20.2961,85.8245,Bag Stitching,41359,4
+Odisha,Bhubaneswar,20.2961,85.8245,Goat Rearing,49042,5
+Odisha,Bhubaneswar,20.2961,85.8245,Dairy Farming,48233,2
+Odisha,Bhubaneswar,20.2961,85.8245,Spice Grinding,15814,5
+Odisha,Bhubaneswar,20.2961,85.8245,Handicraft,13754,1
+Odisha,Bhubaneswar,20.2961,85.8245,Beautician,34118,5
+Odisha,Bhubaneswar,20.2961,85.8245,Embroidery,48473,5
+Odisha,Bhubaneswar,20.2961,85.8245,Textile Weaving,7771,4
+Odisha,Bhubaneswar,20.2961,85.8245,Snacks Making,42614,4
+Odisha,Bhubaneswar,20.2961,85.8245,Candle Making,41350,5
+Odisha,Bhubaneswar,20.2961,85.8245,Incense Stick Making,23434,1
+Odisha,Cuttack,20.4625,85.883,Tailoring,23897,2
+Odisha,Cuttack,20.4625,85.883,Papad Making,7459,1
+Odisha,Cuttack,20.4625,85.883,Pickle Making,35473,3
+Odisha,Cuttack,20.4625,85.883,Pottery,27912,4
+Odisha,Cuttack,20.4625,85.883,Bag Stitching,28316,4
+Odisha,Cuttack,20.4625,85.883,Goat Rearing,6129,5
+Odisha,Cuttack,20.4625,85.883,Dairy Farming,23541,1
+Odisha,Cuttack,20.4625,85.883,Spice Grinding,41039,4
+Odisha,Cuttack,20.4625,85.883,Handicraft,4545,1
+Odisha,Cuttack,20.4625,85.883,Beautician,2755,2
+Odisha,Cuttack,20.4625,85.883,Embroidery,6799,4
+Odisha,Cuttack,20.4625,85.883,Textile Weaving,27082,5
+Odisha,Cuttack,20.4625,85.883,Snacks Making,37972,4
+Odisha,Cuttack,20.4625,85.883,Candle Making,26447,1
+Odisha,Cuttack,20.4625,85.883,Incense Stick Making,5369,4
+West Bengal,Kolkata,22.5726,88.3639,Tailoring,2210,1
+West Bengal,Kolkata,22.5726,88.3639,Papad Making,12518,5
+West Bengal,Kolkata,22.5726,88.3639,Pickle Making,24028,4
+West Bengal,Kolkata,22.5726,88.3639,Pottery,21754,1
+West Bengal,Kolkata,22.5726,88.3639,Bag Stitching,19815,1
+West Bengal,Kolkata,22.5726,88.3639,Goat Rearing,38972,1
+West Bengal,Kolkata,22.5726,88.3639,Dairy Farming,20066,5
+West Bengal,Kolkata,22.5726,88.3639,Spice Grinding,30414,3
+West Bengal,Kolkata,22.5726,88.3639,Handicraft,28064,4
+West Bengal,Kolkata,22.5726,88.3639,Beautician,14215,4
+West Bengal,Kolkata,22.5726,88.3639,Embroidery,43889,3
+West Bengal,Kolkata,22.5726,88.3639,Textile Weaving,23433,1
+West Bengal,Kolkata,22.5726,88.3639,Snacks Making,13917,5
+West Bengal,Kolkata,22.5726,88.3639,Candle Making,27980,2
+West Bengal,Kolkata,22.5726,88.3639,Incense Stick Making,22081,3
+West Bengal,Asansol,23.6739,86.9524,Tailoring,27802,4
+West Bengal,Asansol,23.6739,86.9524,Papad Making,14359,4
+West Bengal,Asansol,23.6739,86.9524,Pickle Making,23248,5
+West Bengal,Asansol,23.6739,86.9524,Pottery,9580,1
+West Bengal,Asansol,23.6739,86.9524,Bag Stitching,24159,3
+West Bengal,Asansol,23.6739,86.9524,Goat Rearing,35162,3
+West Bengal,Asansol,23.6739,86.9524,Dairy Farming,45858,3
+West Bengal,Asansol,23.6739,86.9524,Spice Grinding,8208,1
+West Bengal,Asansol,23.6739,86.9524,Handicraft,48723,1
+West Bengal,Asansol,23.6739,86.9524,Beautician,47496,2
+West Bengal,Asansol,23.6739,86.9524,Embroidery,6483,2
+West Bengal,Asansol,23.6739,86.9524,Textile Weaving,31505,3
+West Bengal,Asansol,23.6739,86.9524,Snacks Making,39707,4
+West Bengal,Asansol,23.6739,86.9524,Candle Making,21237,4
+West Bengal,Asansol,23.6739,86.9524,Incense Stick Making,48630,3
+Jharkhand,Ranchi,23.3441,85.3096,Tailoring,9365,3
+Jharkhand,Ranchi,23.3441,85.3096,Papad Making,42325,2
+Jharkhand,Ranchi,23.3441,85.3096,Pickle Making,47558,3
+Jharkhand,Ranchi,23.3441,85.3096,Pottery,30875,2
+Jharkhand,Ranchi,23.3441,85.3096,Bag Stitching,46181,1
+Jharkhand,Ranchi,23.3441,85.3096,Goat Rearing,16336,3
+Jharkhand,Ranchi,23.3441,85.3096,Dairy Farming,24909,3
+Jharkhand,Ranchi,23.3441,85.3096,Spice Grinding,9100,2
+Jharkhand,Ranchi,23.3441,85.3096,Handicraft,6571,3
+Jharkhand,Ranchi,23.3441,85.3096,Beautician,18841,3
+Jharkhand,Ranchi,23.3441,85.3096,Embroidery,30306,4
+Jharkhand,Ranchi,23.3441,85.3096,Textile Weaving,28257,4
+Jharkhand,Ranchi,23.3441,85.3096,Snacks Making,30183,4
+Jharkhand,Ranchi,23.3441,85.3096,Candle Making,31598,2
+Jharkhand,Ranchi,23.3441,85.3096,Incense Stick Making,13821,4
+Jharkhand,Jamshedpur,22.8046,86.2029,Tailoring,18449,3
+Jharkhand,Jamshedpur,22.8046,86.2029,Papad Making,11454,3
+Jharkhand,Jamshedpur,22.8046,86.2029,Pickle Making,27423,4
+Jharkhand,Jamshedpur,22.8046,86.2029,Pottery,27266,2
+Jharkhand,Jamshedpur,22.8046,86.2029,Bag Stitching,48165,3
+Jharkhand,Jamshedpur,22.8046,86.2029,Goat Rearing,40798,4
+Jharkhand,Jamshedpur,22.8046,86.2029,Dairy Farming,28799,5
+Jharkhand,Jamshedpur,22.8046,86.2029,Spice Grinding,8156,5
+Jharkhand,Jamshedpur,22.8046,86.2029,Handicraft,42810,3
+Jharkhand,Jamshedpur,22.8046,86.2029,Beautician,37202,3
+Jharkhand,Jamshedpur,22.8046,86.2029,Embroidery,14900,4
+Jharkhand,Jamshedpur,22.8046,86.2029,Textile Weaving,13804,2
+Jharkhand,Jamshedpur,22.8046,86.2029,Snacks Making,26925,5
+Jharkhand,Jamshedpur,22.8046,86.2029,Candle Making,20428,3
+Jharkhand,Jamshedpur,22.8046,86.2029,Incense Stick Making,3999,1
+Kerala,Kochi,9.9312,76.2673,Tailoring,4685,1
+Kerala,Kochi,9.9312,76.2673,Papad Making,43688,5
+Kerala,Kochi,9.9312,76.2673,Pickle Making,41450,1
+Kerala,Kochi,9.9312,76.2673,Pottery,5726,2
+Kerala,Kochi,9.9312,76.2673,Bag Stitching,29134,2
+Kerala,Kochi,9.9312,76.2673,Goat Rearing,25402,1
+Kerala,Kochi,9.9312,76.2673,Dairy Farming,37077,2
+Kerala,Kochi,9.9312,76.2673,Spice Grinding,5193,4
+Kerala,Kochi,9.9312,76.2673,Handicraft,45333,1
+Kerala,Kochi,9.9312,76.2673,Beautician,22960,5
+Kerala,Kochi,9.9312,76.2673,Embroidery,35895,5
+Kerala,Kochi,9.9312,76.2673,Textile Weaving,21930,2
+Kerala,Kochi,9.9312,76.2673,Snacks Making,36040,1
+Kerala,Kochi,9.9312,76.2673,Candle Making,13492,4
+Kerala,Kochi,9.9312,76.2673,Incense Stick Making,34085,1
+Kerala,Thiruvananthapuram,8.5241,76.9366,Tailoring,26398,2
+Kerala,Thiruvananthapuram,8.5241,76.9366,Papad Making,26083,5
+Kerala,Thiruvananthapuram,8.5241,76.9366,Pickle Making,5677,5
+Kerala,Thiruvananthapuram,8.5241,76.9366,Pottery,23579,4
+Kerala,Thiruvananthapuram,8.5241,76.9366,Bag Stitching,22374,2
+Kerala,Thiruvananthapuram,8.5241,76.9366,Goat Rearing,38988,4
+Kerala,Thiruvananthapuram,8.5241,76.9366,Dairy Farming,8914,4
+Kerala,Thiruvananthapuram,8.5241,76.9366,Spice Grinding,38147,2
+Kerala,Thiruvananthapuram,8.5241,76.9366,Handicraft,46431,4
+Kerala,Thiruvananthapuram,8.5241,76.9366,Beautician,18014,1
+Kerala,Thiruvananthapuram,8.5241,76.9366,Embroidery,34398,2
+Kerala,Thiruvananthapuram,8.5241,76.9366,Textile Weaving,38313,3
+Kerala,Thiruvananthapuram,8.5241,76.9366,Snacks Making,24402,1
+Kerala,Thiruvananthapuram,8.5241,76.9366,Candle Making,36152,1
+Kerala,Thiruvananthapuram,8.5241,76.9366,Incense Stick Making,22052,5
+Punjab,Amritsar,31.634,74.8723,Tailoring,46177,5
+Punjab,Amritsar,31.634,74.8723,Papad Making,47984,3
+Punjab,Amritsar,31.634,74.8723,Pickle Making,11623,5
+Punjab,Amritsar,31.634,74.8723,Pottery,40478,5
+Punjab,Amritsar,31.634,74.8723,Bag Stitching,33245,1
+Punjab,Amritsar,31.634,74.8723,Goat Rearing,26139,3
+Punjab,Amritsar,31.634,74.8723,Dairy Farming,42461,2
+Punjab,Amritsar,31.634,74.8723,Spice Grinding,17772,1
+Punjab,Amritsar,31.634,74.8723,Handicraft,42101,4
+Punjab,Amritsar,31.634,74.8723,Beautician,3978,3
+Punjab,Amritsar,31.634,74.8723,Embroidery,25026,3
+Punjab,Amritsar,31.634,74.8723,Textile Weaving,46108,1
+Punjab,Amritsar,31.634,74.8723,Snacks Making,16704,1
+Punjab,Amritsar,31.634,74.8723,Candle Making,13716,5
+Punjab,Amritsar,31.634,74.8723,Incense Stick Making,47154,1
+Punjab,Ludhiana,30.901,75.8573,Tailoring,32340,2
+Punjab,Ludhiana,30.901,75.8573,Papad Making,11242,2
+Punjab,Ludhiana,30.901,75.8573,Pickle Making,11330,3
+Punjab,Ludhiana,30.901,75.8573,Pottery,49789,3
+Punjab,Ludhiana,30.901,75.8573,Bag Stitching,36715,3
+Punjab,Ludhiana,30.901,75.8573,Goat Rearing,2667,1
+Punjab,Ludhiana,30.901,75.8573,Dairy Farming,14905,2
+Punjab,Ludhiana,30.901,75.8573,Spice Grinding,42347,5
+Punjab,Ludhiana,30.901,75.8573,Handicraft,42997,4
+Punjab,Ludhiana,30.901,75.8573,Beautician,28696,4
+Punjab,Ludhiana,30.901,75.8573,Embroidery,21526,4
+Punjab,Ludhiana,30.901,75.8573,Textile Weaving,40133,4
+Punjab,Ludhiana,30.901,75.8573,Snacks Making,31463,1
+Punjab,Ludhiana,30.901,75.8573,Candle Making,36797,2
+Punjab,Ludhiana,30.901,75.8573,Incense Stick Making,37696,3
+Assam,Guwahati,26.1445,91.7362,Tailoring,44296,2
+Assam,Guwahati,26.1445,91.7362,Papad Making,46706,5
+Assam,Guwahati,26.1445,91.7362,Pickle Making,17893,3
+Assam,Guwahati,26.1445,91.7362,Pottery,27504,4
+Assam,Guwahati,26.1445,91.7362,Bag Stitching,35079,5
+Assam,Guwahati,26.1445,91.7362,Goat Rearing,19753,3
+Assam,Guwahati,26.1445,91.7362,Dairy Farming,22681,5
+Assam,Guwahati,26.1445,91.7362,Spice Grinding,16639,3
+Assam,Guwahati,26.1445,91.7362,Handicraft,7767,5
+Assam,Guwahati,26.1445,91.7362,Beautician,20442,2
+Assam,Guwahati,26.1445,91.7362,Embroidery,29980,3
+Assam,Guwahati,26.1445,91.7362,Textile Weaving,42702,3
+Assam,Guwahati,26.1445,91.7362,Snacks Making,26815,1
+Assam,Guwahati,26.1445,91.7362,Candle Making,3053,2
+Assam,Guwahati,26.1445,91.7362,Incense Stick Making,49913,5
+Assam,Dibrugarh,27.4728,94.912,Tailoring,32191,4
+Assam,Dibrugarh,27.4728,94.912,Papad Making,20792,1
+Assam,Dibrugarh,27.4728,94.912,Pickle Making,2410,2
+Assam,Dibrugarh,27.4728,94.912,Pottery,17190,1
+Assam,Dibrugarh,27.4728,94.912,Bag Stitching,14440,1
+Assam,Dibrugarh,27.4728,94.912,Goat Rearing,31182,5
+Assam,Dibrugarh,27.4728,94.912,Dairy Farming,35158,3
+Assam,Dibrugarh,27.4728,94.912,Spice Grinding,22172,2
+Assam,Dibrugarh,27.4728,94.912,Handicraft,8835,3
+Assam,Dibrugarh,27.4728,94.912,Beautician,29193,1
+Assam,Dibrugarh,27.4728,94.912,Embroidery,21945,2
+Assam,Dibrugarh,27.4728,94.912,Textile Weaving,10173,4
+Assam,Dibrugarh,27.4728,94.912,Snacks Making,27239,4
+Assam,Dibrugarh,27.4728,94.912,Candle Making,36247,5
+Assam,Dibrugarh,27.4728,94.912,Incense Stick Making,40532,4

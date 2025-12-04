@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+plotly
+google-generativeai
+python-dotenv
+Pillow
+requests
+streamlit
+pandas
+numpy
+matplotlib
+Pillow
+python-dotenv
+sqlite-utils
+google-generativeai
+protobuf
